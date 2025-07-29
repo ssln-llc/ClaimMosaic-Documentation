@@ -1,44 +1,74 @@
-# Starlight Starter Kit: Basics
+# ClaimMosaic Documentation
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
 
-```
-npm create astro@latest -- --template starlight
-```
+This is the official documentation site for ClaimMosaic, a comprehensive claims management system. Built with [Astro Starlight](https://starlight.astro.build/), this documentation provides detailed guides, tutorials, and reference materials for using ClaimMosaic effectively.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/starlight/tree/main/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/starlight/tree/main/examples/basics)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/withastro/starlight&create_from_path=examples/basics)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwithastro%2Fstarlight%2Ftree%2Fmain%2Fexamples%2Fbasics&project-name=my-starlight-docs&repository-name=my-starlight-docs)
+## 📋 Documentation Sections
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+- **Getting Started** - Account setup, FAQ, and pricing tiers
+- **Dashboard** - User and admin dashboards, widgets, and activities
+- **Mosaic View** - Calendar, boards, and map views
+- **Claims** - Complete claims management workflow
+- **Leads** - Lead management and conversion processes
+- **Contacts & Companies** - Contact and company management
+- **Tasks & Reports** - Task management and reporting features
+- **Settings** - System configuration and administration
 
 ## 🚀 Project Structure
-
-Inside of your Astro + Starlight project, you'll see the following folders and files:
 
 ```
 .
 ├── public/
+│   └── favicon.svg
 ├── src/
 │   ├── assets/
 │   ├── content/
 │   │   ├── docs/
-│   └── content.config.ts
+│   │   │   ├── claims/
+│   │   │   ├── dashboard/
+│   │   │   ├── getting-started/
+│   │   │   ├── leads/
+│   │   │   ├── mosaic-view/
+│   │   │   ├── settings/
+│   │   │   └── ...
+│   │   └── content.config.ts
 ├── astro.config.mjs
 ├── package.json
+├── wrangler.jsonc
 └── tsconfig.json
 ```
 
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
+## 🛠️ Development Setup
 
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
+### Prerequisites
 
-Static assets, like favicons, can be placed in the `public/` directory.
+- Node.js (version 18 or higher)
+- npm, pnpm, or yarn package manager
 
-## 🧞 Commands
+### Installation
 
-All commands are run from the root of the project, from a terminal:
+1. Clone the repository:
+```bash
+git clone <repository-url>
+cd ClaimMosaic-Documentation
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Start the development server:
+```bash
+npm run dev
+```
+
+The site will be available at `http://localhost:4321`
+
+## 🧞 Available Commands
+
+All commands are run from the root of the project:
 
 | Command                   | Action                                           |
 | :------------------------ | :----------------------------------------------- |
@@ -49,6 +79,129 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
-## 👀 Want to learn more?
+## 🌐 Deployment to Cloudflare
 
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+This project is configured to deploy to Cloudflare using the `@astrojs/cloudflare` adapter. Follow these steps to deploy:
+
+### Using Cloudflare Pages (Recommended)
+
+1. **Connect to Cloudflare Pages:**
+   - Log in to your [Cloudflare dashboard](https://dash.cloudflare.com/)
+   - Go to Pages and connect your GitHub repository
+   - Set build command: `npm run build`
+   - Set build output directory: `dist`
+
+2. **Environment Variables:**
+   Configure any necessary environment variables in the Cloudflare Pages dashboard.
+
+### Using Cloudflare Workers (Alternative)
+
+1. **Install Wrangler CLI:**
+```bash
+npm install -g wrangler
+```
+
+2. **Authenticate with Cloudflare:**
+```bash
+wrangler login
+```
+
+3. **Update wrangler.jsonc (if needed):**
+```json
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "claimmosaic-docs",
+  "compatibility_date": "2025-05-28",
+  "assets": {
+    "directory": "./dist"
+  }
+}
+```
+
+4. **Build and Deploy:**
+```bash
+npm run build
+wrangler pages deploy dist
+```
+
+### Local Preview with Wrangler
+
+To test the Cloudflare environment locally:
+
+```bash
+# Build the project
+npm run build
+
+# Preview with Wrangler
+npx wrangler pages dev ./dist
+```
+
+### Custom Domains
+
+To use a custom domain:
+1. Add your domain in the Cloudflare Pages dashboard
+2. Update your DNS settings to point to Cloudflare
+3. Configure SSL/TLS settings as needed
+
+## 📝 Content Management
+
+### Adding New Documentation
+
+1. Create new `.md` or `.mdx` files in `src/content/docs/`
+2. Follow the existing directory structure for organization
+3. Update `astro.config.mjs` sidebar configuration if adding new sections
+4. Use Starlight's frontmatter for page metadata:
+
+```markdown
+---
+title: Page Title
+description: Page description for SEO
+sidebar:
+  order: 1
+---
+
+# Content goes here
+```
+
+### Content Guidelines
+
+- Use clear, descriptive headings
+- Include code examples where relevant
+- Add screenshots for UI elements
+- Follow consistent formatting and style
+- Test all links and references
+
+## 🔧 Customization
+
+### Styling
+- Custom CSS can be added in `src/assets/`
+- Starlight provides built-in theming options
+- Override default styles through the Starlight configuration
+
+### Configuration
+- Main configuration in `astro.config.mjs`
+- Content collection configuration in `src/content.config.ts`
+- Deployment configuration in `wrangler.jsonc`
+
+## 🐛 Troubleshooting
+
+### Common Issues
+
+1. **Build errors:** Check Node.js version compatibility
+2. **Deployment issues:** Verify Cloudflare account permissions
+3. **Content not appearing:** Check file paths and frontmatter syntax
+4. **Styling issues:** Clear cache and rebuild
+
+### Getting Help
+
+- Check [Astro documentation](https://docs.astro.build)
+- Review [Starlight documentation](https://starlight.astro.build/)
+- Consult [Cloudflare Pages documentation](https://developers.cloudflare.com/pages/)
+
+## 📄 License
+
+[Add your license information here]
+
+## 🤝 Contributing
+
+[Add contribution guidelines here]

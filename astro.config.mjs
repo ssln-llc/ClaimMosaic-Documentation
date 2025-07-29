@@ -45,8 +45,7 @@ export default defineConfig({
               {
                   label: 'Settings',
                   autogenerate: { directory: 'settings' },
-              },
-              { label: 'Support', slug: 'support' },
+              }
           ],
       }),
 	],
