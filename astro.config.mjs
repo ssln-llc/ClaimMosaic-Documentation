@@ -13,49 +13,30 @@ export default defineConfig({
           sidebar: [
               {
                   label: 'Getting Started',
-                  items: [
-                      { label: 'Account Setup', slug: 'getting-started/account-setup' },
-                      { label: 'Tiers & Pricing', slug: 'getting-started/tiers-pricing' },
-                      { label: 'FAQ', slug: 'getting-started/faq' },
-                  ],
+                  autogenerate: { directory: 'getting-started' },
               },
               {
                   label: 'Dashboard',
-                  items: [
-                      { label: 'User Dashboard', slug: 'dashboard/user-dashboard' },
-                      { label: 'Admin Dashboard', slug: 'dashboard/admin-dashboard' },
-                      { label: 'Widgets', slug: 'dashboard/widgets' },
-                      { label: 'Quick Add', slug: 'dashboard/quick-add' },
-                      { label: 'Activities', slug: 'dashboard/activities' },
-                  ],
+                  autogenerate: { directory: 'dashboard' },
               },
               {
                   label: 'Mosaic View',
-                  items: [
-                      { label: 'Claim Board', slug: 'mosaic-view/claim-board' },
-                      { label: 'Lead Board', slug: 'mosaic-view/lead-board' },
-                      { label: 'Task Board', slug: 'mosaic-view/task-board' },
-                      { label: 'Map View', slug: 'mosaic-view/map-view' },
-                      { label: 'Calendar', slug: 'mosaic-view/calendar' },
-                  ],
+                  autogenerate: { directory: 'mosaic-view' },
               },
               {
                   label: 'Claims',
                   items: [
-                      { label: 'Creating Claims', slug: 'claims/creating-claims' },
-                      { label: 'Managing Claims', slug: 'claims/managing-claims' },
-                      { label: 'Claim Statuses', slug: 'claims/claim-statuses' },
-                      { label: 'Claim Details', slug: 'claims/claim-details' },
-                  ],
+                    { label: 'Claims Overview', link: '/claims/overview' },
+                    { label: 'Claims List View', link: '/claims/claims-list' },
+                    {
+                        label: 'Claim Detail',
+                        autogenerate: { directory: 'claims/claim-detail' }
+                    }
+                  ]
               },
               {
                   label: 'Leads',
-                  items: [
-                      { label: 'Creating Leads', slug: 'leads/creating-leads' },
-                      { label: 'Managing Leads', slug: 'leads/managing-leads' },
-                      { label: 'Lead Statuses', slug: 'leads/lead-statuses' },
-                      { label: 'Converting Leads to Claims', slug: 'leads/converting-leads' },
-                  ],
+                  autogenerate: { directory: 'leads' },
               },
               { label: 'Contacts', slug: 'contacts' },
               { label: 'Companies', slug: 'companies' },
@@ -63,17 +44,7 @@ export default defineConfig({
               { label: 'Reports', slug: 'reports' },
               {
                   label: 'Settings',
-                  items: [
-                      { label: 'General', slug: 'settings/general' },
-                      { label: 'Billing', slug: 'settings/billing' },
-                      { label: 'Document Templates', slug: 'settings/document-templates' },
-                      { label: 'Fields', slug: 'settings/fields' },
-                      { label: 'Automation', slug: 'settings/automation' },
-                      { label: 'Invoicing', slug: 'settings/invoicing' },
-                      { label: 'External Portals', slug: 'settings/external-portals' },
-                      { label: 'Users', slug: 'settings/users' },
-                      { label: 'Access Rights', slug: 'settings/access-rights' },
-                  ],
+                  autogenerate: { directory: 'settings' },
               },
               { label: 'Support', slug: 'support' },
           ],
