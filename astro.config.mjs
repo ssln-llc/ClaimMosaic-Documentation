@@ -39,9 +39,18 @@ export default defineConfig({
                   autogenerate: { directory: 'leads' },
               },
               { label: 'Contacts', slug: 'contacts' },
-              { label: 'Companies', slug: 'companies' },
-              { label: 'Tasks', slug: 'tasks' },
-              { label: 'Reports', slug: 'reports' },
+              {
+                  label: 'Companies',
+                  autogenerate: { directory: 'companies' },
+              },
+              {
+                  label: 'Tasks',
+                  autogenerate: { directory: 'tasks' },
+              },
+              {
+                  label: 'Reports',
+                  autogenerate: { directory: 'reports' },
+              },
               {
                   label: 'Settings',
                   autogenerate: { directory: 'settings' },
