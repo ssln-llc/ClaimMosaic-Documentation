@@ -19,6 +19,15 @@ This is the main dashboard view for the claim's finances. It provides a high-lev
     - **Net Company Fee:** The Gross Company Fee minus any company-paid expenses and commissions.
 - **Time Logged:** A summary of total time and billable time logged in the **Activity** tab.
 
+### Generate Invoice
+
+From the Summary view, you can generate a professional invoice for your client.
+1.  Click the **Generate Invoice** button.
+2.  In the "New Invoice" modal, enter the **Invoice Number**, **Invoice Date**, **Due Date**, and any specific **Terms**.
+3.  Click **Generate**.
+
+The system will produce a clean, downloadable PDF invoice that includes your company logo, the client's details, and a line item for the company fee.
+
 ### Settlements
 
 This section allows you to track settlement offers and proposals.
