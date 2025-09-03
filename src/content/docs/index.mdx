@@ -15,52 +15,28 @@ hero:
       icon: external
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+import { LinkCard, CardGrid } from '@astrojs/starlight/components';
 
 ## Start here
 
 <CardGrid>
-	<Card title="Account setup" icon="setting" href="/getting-started/account-setup/">
-		Create your workspace, invite users, and configure your profile.
-	</Card>
-	<Card title="FAQ" icon="open-book" href="/getting-started/faq/">
-		Quick answers to the most common onboarding questions.
-	</Card>
-	<Card title="Tiers & pricing" icon="open-book" href="/getting-started/tiers-pricing/">
-		Choose the plan that fits your firm and team size.
-	</Card>
+	<LinkCard title="Account setup" href="/getting-started/account-setup/" description="Create your workspace, invite users, and configure your profile." />
+	<LinkCard title="FAQ" href="/getting-started/faq/" description="Quick answers to common onboarding questions." />
+	<LinkCard title="Tiers & pricing" href="/getting-started/tiers-pricing/" description="Choose the plan that fits your firm and team size." />
 </CardGrid>
 
 ## Work by area
 
 <CardGrid>
-	<Card title="Claims — overview" icon="open-book" href="/claims/overview/">
-		Understand the centralized claim hub and core workflows.
-	</Card>
-	<Card title="Claims — list & detail" icon="add-document" href="/claims/claims-list/">
-		Find and manage claims. See also: [Claim detail](/claims/claim-detail/).
-	</Card>
-	<Card title="Leads" icon="add-document" href="/leads/overview/">
-		Track prospects from intake to conversion. See: [Managing leads](/leads/managing-leads/) and [Convert to claim](/leads/converting-to-claim/).
-	</Card>
-	<Card title="Mosaic View (boards & calendar)" icon="open-book" href="/mosaic-view/claim-board/">
-		Visualize work with boards, calendars, and maps. Start with [Claim board](/mosaic-view/claim-board/), [Lead board](/mosaic-view/lead-board/), [Task board](/mosaic-view/task-board/), [Calendar](/mosaic-view/calendar/), [Map](/mosaic-view/map-view/).
-	</Card>
-	<Card title="Dashboards" icon="open-book" href="/dashboard/user-dashboard/">
-		Personal and admin insights. See: [User dashboard](/dashboard/user-dashboard/), [Admin dashboard](/dashboard/admin-dashboard/), [Activities](/dashboard/activities/), [Quick Add](/dashboard/quick-add/), [Widgets](/dashboard/widgets/).
-	</Card>
-	<Card title="Contacts & Companies" icon="add-document" href="/contacts/overview/">
-		Organize people and organizations. See: [Managing contacts](/contacts/managing-contacts/), [Companies](/companies/overview/), [Managing companies](/companies/managing-companies/).
-	</Card>
-	<Card title="Tasks" icon="pencil" href="/tasks/overview/">
-		Create, assign, and track work across claims. See: [Managing tasks](/tasks/managing-tasks/).
-	</Card>
-	<Card title="Settings" icon="setting" href="/settings/general/">
-		Configure your workspace: [Users](/settings/users/), [Fields](/settings/fields/), [Invoicing](/settings/invoicing/), [Access rights](/settings/access-rights/), [Automation](/settings/automation/), [Document templates](/settings/document-templates/), [External portals](/settings/external-portals/), [Billing](/settings/billing/).
-	</Card>
-	<Card title="Reports" icon="open-book" href="/reports/overview/">
-		Track performance and outcomes. See: [Creating reports](/reports/creating-reports/).
-	</Card>
+	<LinkCard title="Claims — overview" href="/claims/overview/" description="Understand the centralized claim hub and core workflows." />
+	<LinkCard title="Claims — list & detail" href="/claims/claims-list/" description="Find and manage claims across your pipeline." />
+	<LinkCard title="Leads" href="/leads/overview/" description="Track prospects from intake to conversion." />
+	<LinkCard title="Mosaic View (boards & calendar)" href="/mosaic-view/claim-board/" description="Visualize work with boards, calendars, and maps." />
+	<LinkCard title="Dashboards" href="/dashboard/user-dashboard/" description="Personal and admin insights for your team." />
+	<LinkCard title="Contacts & Companies" href="/contacts/overview/" description="Organize people and organizations in one place." />
+	<LinkCard title="Tasks" href="/tasks/overview/" description="Create, assign, and track work across claims." />
+	<LinkCard title="Settings" href="/settings/general/" description="Configure users, fields, invoicing, access rights, automation, and more." />
+	<LinkCard title="Reports" href="/reports/overview/" description="Track performance and outcomes across your firm." />
 </CardGrid>
 
 ## Find answers fast
