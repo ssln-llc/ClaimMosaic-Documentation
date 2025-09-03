@@ -1,0 +1,9 @@
+{
+	"servers": {
+		"my-mcp-server-8b38677c": {
+			"url": "http://stmmcp.azurewebsites.net/",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
