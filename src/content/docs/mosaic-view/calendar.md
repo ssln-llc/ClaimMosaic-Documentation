@@ -7,10 +7,6 @@ sidebar:
 
 The Calendar view provides a traditional monthly calendar interface to help you manage your tasks and their due dates. It's an intuitive way to visualize your schedule and stay on top of your responsibilities.
 
-## Using the Calendar
-
-The calendar displays your tasks on the days they are due.
-
 ### Navigating the Calendar
 
 - Use the **`<`** and **`>`** arrow buttons at the top-right of the calendar to move between months.

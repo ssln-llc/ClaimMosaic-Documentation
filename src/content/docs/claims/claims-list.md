@@ -1,11 +1,11 @@
 ---
-title: "Claims List View"
+title: "Claims List"
 description: "Learn how to effectively search, filter, and perform quick actions on the main claims list page to streamline your workflow."
 sidebar:
   order: 2
 ---
 
-When you navigate to the Claims section, you land on the **Claims List View**. This page displays all the claims in the system in a paginated table, providing a high-level overview of key information at a glance.
+When you navigate to the Claims section, you land on the **Claims List**. This page displays all the claims in the system in a paginated table, providing a high-level overview of key information at a glance.
 
 ## Searching and Filtering
 

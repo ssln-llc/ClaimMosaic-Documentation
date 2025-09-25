@@ -7,9 +7,9 @@ sidebar:
 
 The User Dashboard is the first page you see upon logging in. It's designed to give you a high-level overview of your most important tasks, claims, and leads at a glance. The dashboard is personalized to show data relevant to you based on your user permissions.
 
-## Key Metric Widgets
+## Key Metric Charts
 
-At the top of the dashboard, you'll find four key metric widgets that summarize your current workload. Each of these widgets is interactive; you can click on any of them to navigate directly to a detailed list of the corresponding items.
+At the top of the dashboard, you'll find four key metric charts that summarize your current workload. Each of these charts is interactive; you can click on any of them to navigate directly to a detailed list of the corresponding items.
 
 - **Assigned Tasks:** Shows the total count of tasks currently assigned to you.
 - **Overdue Tasks:** Highlights the number of your assigned tasks that have passed their due date.
@@ -17,7 +17,7 @@ At the top of the dashboard, you'll find four key metric widgets that summarize 
 - **Leads Assigned:** Shows the total count of leads assigned to you.
 
 :::note[Permissions]
-The data displayed in your dashboard widgets is specific to your user account. Standard users will see counts related only to their own assigned items. Users with Admin or Owner roles will see system-wide totals.
+The data displayed in your dashboard charts is specific to your user account. Standard users will see counts related only to their own assigned items. Users with Admin or Owner roles will see system-wide totals.
 :::
 
 ## Data Visualization Charts

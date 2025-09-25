@@ -22,6 +22,6 @@ This admin page gives you complete control over what information is visible in t
 
 You can empower your clients and other stakeholders to contribute directly to the claim file by enabling document uploads.
 
-- **Allow Documents Uploads?:** When this checkbox is enabled, users accessing the portal will see an option to upload files. Any files they upload will be automatically added to the **Files** tab of the corresponding claim record.
+- **Allow Documents Uploads:** When this checkbox is enabled, users accessing the portal will see an option to upload files. Any files they upload will be automatically added to the **Files** tab of the corresponding claim record.
 
 This feature is an excellent way to securely and efficiently receive necessary documents from your clients. 

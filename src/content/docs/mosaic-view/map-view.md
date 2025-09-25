@@ -7,8 +7,6 @@ sidebar:
 
 The Map View provides a powerful geographical perspective of your claims, plotting each one as a pin on an interactive map. This is especially useful for planning routes, understanding claim clusters, and managing field inspections.
 
-## Interacting with the Map
-
 The Map View is fully interactive, allowing you to zoom, pan, and filter to find the information you need.
 
 ### Filtering by Status

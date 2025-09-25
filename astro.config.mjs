@@ -61,7 +61,7 @@ export default defineConfig({
               label: 'Claims',
               items: [
                 { label: 'Claims Overview', link: '/claims/overview' },
-                { label: 'Claims List View', link: '/claims/claims-list' },
+                { label: 'Claims List', link: '/claims/claims-list' },
                 {
                     label: 'Claim Detail',
                     autogenerate: { directory: 'claims/claim-detail' }

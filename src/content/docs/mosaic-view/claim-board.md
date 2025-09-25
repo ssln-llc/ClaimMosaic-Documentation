@@ -28,10 +28,6 @@ Dragging and dropping is the fastest way to move claims through your workflow, p
 - **View Details:** Click on any claim card to navigate to its detailed overview page.
 - **Add a Claim:** You can add a new claim directly to a specific status column by clicking the **`+ Add another Claim`** button within that column.
 
-## Customizing Your View
-
-You can customize the board to fit your needs.
-
 ### Reordering Status Columns
 
 Organize your workflow by dragging and dropping the status column headers into your preferred order. The system will save your custom layout.
