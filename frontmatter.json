@@ -1,0 +1,222 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.framework.id": "astro",
+  "frontMatter.preview.host": "http://localhost:4323",
+  "frontMatter.content.publicFolder": {
+    "path": "src/assets",
+    "relative": true
+  },
+  "frontMatter.extends": [
+    ".frontmatter/starlight/aside.json"
+  ],
+  "frontMatter.content.contentTypes": [
+    {
+      "name": "starlight-doc",
+      "id": "starlight-doc",
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string",
+          "required": true,
+          "description": "The title of your document. Displayed at the top of the page, in browser tabs, and in page metadata."
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string",
+          "description": "The page description used for page metadata, search engines, and social media previews."
+        },
+        {
+          "title": "Page Template",
+          "name": "template",
+          "type": "choice",
+          "choices": [
+            "doc",
+            "splash"
+          ],
+          "default": "doc",
+          "description": "The layout template for the page. Use 'splash' for a wider layout without sidebars."
+        },
+        {
+          "title": "Draft",
+          "name": "draft",
+          "type": "boolean",
+          "default": false,
+          "description": "Mark this page as a draft. It will not be included in production builds."
+        },
+        {
+          "title": "Hero Section",
+          "name": "hero",
+          "type": "block",
+          "description": "Optional hero section for splash pages. See https://starlight.astro.build/reference/frontmatter/#hero",
+          "fields": [
+            {
+              "name": "title",
+              "title": "Hero Title",
+              "type": "string"
+            },
+            {
+              "name": "tagline",
+              "title": "Tagline",
+              "type": "string"
+            },
+            {
+              "name": "image",
+              "title": "Image",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "file",
+                  "title": "Image Path",
+                  "type": "image",
+                  "description": "Relative path to an image in your repository (e.g., ~/assets/logo.png)."
+                },
+                {
+                  "name": "dark",
+                  "title": "Dark Mode Image Path",
+                  "type": "image",
+                  "description": "Image to use for dark mode."
+                },
+                {
+                  "name": "light",
+                  "title": "Light Mode Image Path",
+                  "type": "image",
+                  "description": "Image to use for light mode."
+                },
+                {
+                  "name": "alt",
+                  "title": "Alt Text",
+                  "type": "string"
+                },
+                {
+                  "name": "html",
+                  "title": "Image HTML",
+                  "type": "string",
+                  "description": "Raw HTML to use in the image slot, e.g., an inline <svg>."
+                }
+              ]
+            },
+            {
+              "name": "actions",
+              "title": "Call to Action Buttons",
+              "type": "array",
+              "items": {
+                "type": "object",
+                "fields": [
+                  {
+                    "name": "text",
+                    "title": "Button Text",
+                    "type": "string"
+                  },
+                  {
+                    "name": "link",
+                    "title": "Button Link",
+                    "type": "string"
+                  },
+                  {
+                    "name": "variant",
+                    "title": "Button Style",
+                    "type": "choice",
+                    "choices": [
+                      "primary",
+                      "secondary",
+                      "minimal"
+                    ],
+                    "default": "primary"
+                  },
+                  {
+                    "name": "icon",
+                    "title": "Icon Name",
+                    "type": "string",
+                    "description": "e.g., 'right-arrow' or 'external'"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Advanced Page Options",
+          "name": "advanced",
+          "type": "group",
+          "fields": [
+            {
+              "title": "Custom Slug",
+              "name": "slug",
+              "type": "string",
+              "description": "Override the URL slug for this page."
+            },
+            {
+              "title": "Last Updated Date",
+              "name": "lastUpdated",
+              "type": "datetime",
+              "description": "Override the date shown for the last update. If not set, uses Git history."
+            },
+            {
+              "title": "Exclude from Search",
+              "name": "pagefind",
+              "type": "boolean",
+              "default": true,
+              "description": "Set to false to exclude this page from search results."
+            }
+          ]
+        },
+        {
+          "title": "Navigation Links",
+          "name": "nav",
+          "type": "group",
+          "fields": [
+            {
+              "title": "Previous Page Link",
+              "name": "prev",
+              "type": "boolean",
+              "default": true,
+              "description": "Set to false to hide the 'previous page' link."
+            },
+            {
+              "title": "Next Page Link",
+              "name": "next",
+              "type": "boolean",
+              "default": true,
+              "description": "Set to false to hide the 'next page' link."
+            }
+          ]
+        },
+        {
+          "title": "Table of Contents",
+          "name": "tableOfContents",
+          "type": "block",
+          "description": "Customize the table of contents for this page.",
+          "fields": [
+            {
+              "title": "Minimum Heading Level",
+              "name": "minHeadingLevel",
+              "type": "number",
+              "default": 2
+            },
+            {
+              "title": "Maximum Heading Level",
+              "name": "maxHeadingLevel",
+              "type": "number",
+              "default": 3
+            }
+          ]
+        },
+        {
+          "title": "Announcement Banner",
+          "name": "banner",
+          "type": "block",
+          "fields": [
+            {
+              "name": "content",
+              "title": "Banner Content",
+              "type": "string",
+              "description": "HTML content for the banner. Can include links."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

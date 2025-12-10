@@ -1,0 +1,43 @@
+---
+// Custom Footer component for Claim Mosaic Documentation
+const currentYear = new Date().getFullYear();
+---
+
+<footer class="sl-footer">
+  <div class="meta sl-flex">
+    <p class="copyright">
+      © {currentYear} <a href="https://claimmosaic.com/" target="_blank" rel="noopener">Claim Mosaic</a>. All rights reserved.
+    </p>
+  </div>
+</footer>
+
+<style>
+  .sl-footer {
+    border-top: 1px solid var(--sl-color-hairline);
+    padding: 1.5rem var(--sl-content-pad-x);
+    margin-top: 2rem;
+  }
+
+  .meta {
+    justify-content: center;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+  }
+
+  .copyright {
+    color: var(--sl-color-gray-5);
+    font-size: 0.875rem;
+    margin: 0;
+  }
+
+  .copyright a {
+    color: var(--sl-color-accent);
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  .copyright a:hover {
+    text-decoration: underline;
+  }
+</style>
+

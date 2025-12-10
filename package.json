@@ -1,0 +1,20 @@
+{
+  "name": "starlight",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/cloudflare": "^12.6.12",
+    "@astrojs/sitemap": "^3.6.0",
+    "@astrojs/starlight": "^0.37.1",
+    "@fontsource/sora": "^5.2.8",
+    "astro": "^5.16.4",
+    "sharp": "^0.34.3"
+  }
+}
