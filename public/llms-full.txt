@@ -1,0 +1,1883 @@
+# https://docs.claimmosaic.com llms-full.txt
+
+## Claim Mosaic Documentation
+[Skip to content](https://docs.claimmosaic.com/#_top)
+
+![](https://docs.claimmosaic.com/_astro/logo.69c0tamn_A0IIg.svg)
+
+# Claim Mosaic Documentation
+
+Learn Claim Mosaic fast — built for Public Adjusters
+
+[Claim Mosaic](https://claimmosaic.com/) [Pricing & plans](https://claimmosaic.com/#pricing)
+
+## Getting Started
+
+[Section titled “Getting Started”](https://docs.claimmosaic.com/#getting-started)
+
+[Account setup](https://docs.claimmosaic.com/getting-started/account-setup/) Create your workspace, invite users, and configure your profile.
+
+[FAQ](https://docs.claimmosaic.com/getting-started/faq/) Quick answers to common onboarding questions.
+
+[Tiers & pricing](https://docs.claimmosaic.com/getting-started/tiers-pricing/) Choose the plan that fits your firm and team size.
+
+## Work by area
+
+[Section titled “Work by area”](https://docs.claimmosaic.com/#work-by-area)
+
+[Claims — overview](https://docs.claimmosaic.com/claims/overview/) Understand the centralized claim hub and core workflows.
+
+[Claims — list & detail](https://docs.claimmosaic.com/claims/claims-list/) Find and manage claims across your pipeline.
+
+[Leads](https://docs.claimmosaic.com/leads/overview/) Track prospects from intake to conversion.
+
+[Mosaic View (boards & calendar)](https://docs.claimmosaic.com/mosaic-view/claim-board/) Visualize work with boards, calendars, and maps.
+
+[Dashboards](https://docs.claimmosaic.com/dashboard/user-dashboard/) Personal and admin insights for your team.
+
+[Contacts & Companies](https://docs.claimmosaic.com/contacts/overview/) Organize people and organizations in one place.
+
+[Tasks](https://docs.claimmosaic.com/tasks/overview/) Create, assign, and track work across claims.
+
+[Settings](https://docs.claimmosaic.com/settings/general/) Configure users, fields, invoicing, access rights, automation, and more.
+
+[Reports](https://docs.claimmosaic.com/reports/overview/) Track performance and outcomes across your firm.
+
+## Find answers fast
+
+[Section titled “Find answers fast”](https://docs.claimmosaic.com/#find-answers-fast)
+
+- Use the search bar at the top to jump directly to topics like “claim tasks”, “lead board”, or “invoicing”.
+- Each page includes a table of contents to help you scan and navigate sections quickly.
+- Keyboard navigation and internal links keep you oriented as you work through a workflow.
+
+## Why Claim Mosaic for Public Adjusters?
+
+[Section titled “Why Claim Mosaic for Public Adjusters?”](https://docs.claimmosaic.com/#why-claim-mosaic-for-public-adjusters)
+
+Claim Mosaic is purpose‑built claims management software that reduces paperwork, prevents missed deadlines, and keeps your team and clients aligned. Organize documents, photos, and notes in one place; automate reminders; and collaborate with transparency for faster resolutions and better outcomes. Learn about plans and AI‑powered features on our website.
+
+👉 [Visit the Claim Mosaic site](https://claimmosaic.com/) for plan details and a free 14‑day trial.
+
+## ClaimMosaic Sitemap
+https://docs.claimmosaic.com/sitemap-0.xml
+
+## Claims Files Management
+[Skip to content](https://docs.claimmosaic.com/claims/claim-detail/files-tab/#_top)
+
+# Files Tab
+
+The **Files** tab is the central repository for all documents, images, and other files associated with a claim. It provides a robust system for file management, document generation, and secure sharing.
+
+### File and Folder Management
+
+[Section titled “File and Folder Management”](https://docs.claimmosaic.com/claims/claim-detail/files-tab/#file-and-folder-management)
+
+- **Upload Files:** You can upload one or more files by dragging and dropping them onto the page or by using the **Upload a file(s)** button.
+- **Create Folders:** Keep your documents organized by creating folders. Click the **New Folder** button to add a new folder to the claim.
+- **Preview and Download:** Click on a file to see a preview (for supported file types like PDFs and images) or to view its details. From the preview or details pane, you can download the file to your local machine.
+
+### Document Generation
+
+[Section titled “Document Generation”](https://docs.claimmosaic.com/claims/claim-detail/files-tab/#document-generation)
+
+The **Generate a Document** feature allows you to create new documents from pre-configured templates. This is perfect for standard communications like a Letter of Representation (LOR).
+
+1. Click **Generate a Document**.
+2. Select a template from the dropdown list.
+3. The system will merge the current claim’s data (e.g., policyholder name, policy number) into the template and generate a new document.
+4. You can then preview the generated document and download it.
+
+### E-Signatures
+
+[Section titled “E-Signatures”](https://docs.claimmosaic.com/claims/claim-detail/files-tab/#e-signatures)
+
+After generating a document, you can send it for electronic signature directly from the platform.
+
+1. Generate a document using a template.
+2. In the document preview window, click the **Request Signature** icon (looks like a fountain pen).
+3. In the **Signees** section, select the contacts who need to sign the document.
+4. Customize the email **Subject** and **Body** if needed.
+5. Click **Send**.
+
+The selected contacts will receive an email with a secure link to review and sign the document electronically. The signed document will be automatically saved back to the claim’s files.
+
+## Insurance Policy Management
+[Skip to content](https://docs.claimmosaic.com/claims/claim-detail/insurance-tab/#_top)
+
+# Insurance Tab
+
+The **Insurance** tab is where you store and manage all information related to the insurance policy covering the loss. This includes policy numbers, effective dates, coverage limits, and company details.
+
+### Policy Details
+
+[Section titled “Policy Details”](https://docs.claimmosaic.com/claims/claim-detail/insurance-tab/#policy-details)
+
+This section contains all the specifics of the insurance policy:
+
+- **Policy Number & Type:** The unique policy identifier and its type (e.g., HO3).
+- **Policy Start & Expiration Date:** The effective dates of the policy.
+- **Policy Form & Total Amount of Policy:** The specific form used and the total policy value.
+- **Coverage Limits:** Detailed fields for various coverage types, such as:
+
+  - Dwelling Coverage (A)
+  - Other Structures (B)
+  - Personal Property/Contents (C)
+  - Loss of Use/Rent or ALE (D)
+  - Ordinance and Law
+  - Debris Removal
+  - Mold/Fungi Limit
+  - Deductible
+
+### Company Information
+
+[Section titled “Company Information”](https://docs.claimmosaic.com/claims/claim-detail/insurance-tab/#company-information)
+
+This area links the claim to the relevant companies in your database:
+
+- **Insurance Company:** The carrier providing the coverage.
+- **Agent:** The insurance agent associated with the policy.
+- **Mortgage Company:** The mortgage lender, if applicable.
+
+## Claim Detail View
+[Skip to content](https://docs.claimmosaic.com/claims/claim-detail/#_top)
+
+# Claim Detail
+
+The **Claim Detail View** provides a comprehensive, in-depth look at a single claim record. You can access this view by clicking on any claim from the main [Claims List](https://docs.claimmosaic.com/claims/claims-list).
+
+This view is organized into a series of tabs, each dedicated to a specific aspect of the claim’s lifecycle. This tabbed structure allows you to easily navigate and manage all related information in one place.
+
+The available tabs are:
+
+- **[Overview](https://docs.claimmosaic.com/claims/claim-detail/overview-tab):** Core details about the loss, policyholder, and company fees.
+- **[Insurance](https://docs.claimmosaic.com/claims/claim-detail/insurance-tab):** All policy-related information and coverages.
+- **[Contacts](https://docs.claimmosaic.com/claims/claim-detail/contacts-tab):** Management of all associated contacts.
+- **[Accounting](https://docs.claimmosaic.com/claims/claim-detail/accounting-tab):** Financial tracking, including settlements, payments, and expenses.
+- **[Activity](https://docs.claimmosaic.com/claims/claim-detail/activity-tab):** A complete log of all notes, emails, and phone calls.
+- **[Tasks](https://docs.claimmosaic.com/claims/claim-detail/tasks-tab):** A list of all tasks associated with the claim.
+- **[Files](https://docs.claimmosaic.com/claims/claim-detail/files-tab):** A repository for all claim-related documents.
+
+This section will guide you through each tab, explaining the features and functionalities available to help you manage your claims effectively.
+
+## Claim Overview Details
+[Skip to content](https://docs.claimmosaic.com/claims/claim-detail/overview-tab/#_top)
+
+# Overview Tab
+
+The **Overview** tab is the default landing page when you open a claim’s detail view. It contains the most essential information about the claim, divided into logical sections for clarity and quick access.
+
+### Quick View Header
+
+[Section titled “Quick View Header”](https://docs.claimmosaic.com/claims/claim-detail/overview-tab/#quick-view-header)
+
+At the top of the page, a header provides at-a-glance information:
+
+- **Claim Number & Status:** The unique claim identifier and its current status (e.g., Originated - New Claim, Inspection).
+- **Recovery Stat:** A metric showing the total amount recovered versus the deductible.
+- **Policyholder Name:** The primary policyholder for the claim.
+- **Date of Loss:** The date the loss occurred.
+- **Policy Number:** The associated insurance policy number.
+
+### Loss Details
+
+[Section titled “Loss Details”](https://docs.claimmosaic.com/claims/claim-detail/overview-tab/#loss-details)
+
+This section captures the fundamental details about the property damage incident. Key fields include:
+
+- **Loss Address:** The physical address where the loss occurred.
+- **Date of Loss:** The date of the incident.
+- **Loss Type & Secondary Loss Type:** Categories to classify the nature of the damage.
+- **Estimated Claim Value:** Your initial estimate of the claim’s total value.
+- **Prior Payments:** Any payments made by the carrier before your involvement.
+- **Loss Description:** A text field for a detailed narrative of the loss.
+
+### Policy Holder
+
+[Section titled “Policy Holder”](https://docs.claimmosaic.com/claims/claim-detail/overview-tab/#policy-holder)
+
+Here you can manage the primary and any secondary policyholders associated with the claim. This section displays their contact information, which is pulled from the main **Contacts** database.
+
+### Company Details
+
+[Section titled “Company Details”](https://docs.claimmosaic.com/claims/claim-detail/overview-tab/#company-details)
+
+This section is for internal administrative information:
+
+- **Company Fee:** Set the fee structure for the claim. You can choose between:
+
+  - **Flat Fee:** A fixed dollar amount.
+  - **Percent:** A percentage of the total settlement.
+  - **Hourly:** Based on time logged in the Activity tab.
+- **Contract Date:** The date the service agreement was signed.
+- **Reason:** The reason for the claim (e.g., New Claim, Re-Open/Denial).
+
+### Generate Report
+
+[Section titled “Generate Report”](https://docs.claimmosaic.com/claims/claim-detail/overview-tab/#generate-report)
+
+At the bottom of the page, the **Generate Report** button opens the **Report Builder**. This powerful tool allows you to create a custom PDF report for the claim. You can select which sections of the claim record to include, such as:
+
+- Loss Details
+- Policyholder Information
+- Insurance Policy Details
+- Accounting Summary
+- All Activities and Tasks
+- Attached Files
+
+This flexibility enables you to tailor reports for different audiences, like attorneys, clients, or internal reviews.
+
+## Claims Contacts Overview
+[Skip to content](https://docs.claimmosaic.com/claims/claim-detail/contacts-tab/#_top)
+
+# Contacts Tab
+
+The **Contacts** tab serves as a centralized address book for every individual and company involved in a specific claim. This ensures that all stakeholder information is organized and easily accessible.
+
+### Contact Categories
+
+[Section titled “Contact Categories”](https://docs.claimmosaic.com/claims/claim-detail/contacts-tab/#contact-categories)
+
+Contacts are organized into logical categories using sub-tabs for quick navigation:
+
+- **All:** Displays every contact linked to the claim.
+- **General:** Typically includes the policyholder(s) and other general contacts.
+- **Carrier:** For contacts from the insurance company, such as the desk adjuster or field adjuster.
+- **Staff:** Lists all internal users (your staff) assigned to or involved with the claim.
+
+### Managing Contacts
+
+[Section titled “Managing Contacts”](https://docs.claimmosaic.com/claims/claim-detail/contacts-tab/#managing-contacts)
+
+- **Adding a Contact:** Click the **Add** button to link a new contact to the claim. You can search for an existing contact from your central database or create a new one on the fly.
+- **Assigning Roles:** When adding a contact, you must assign them a **Contact Type** (e.g., Carrier Desk Adjuster, Attorney) and specify which **Section** (General, Carrier, or Staff) they belong to.
+
+### External Portal (EP)
+
+[Section titled “External Portal (EP)”](https://docs.claimmosaic.com/claims/claim-detail/contacts-tab/#external-portal-ep)
+
+The External Portal (EP) is a secure, view-only portal that allows you to share claim information with external stakeholders like policyholders or attorneys without giving them full access to the system.
+
+- **Granting Access:** Any contact with an “EP” icon next to their name has been granted access. You can send them a unique, secure link to the portal.
+- **Authentication:** For security, the contact must enter their email address to authenticate and access the portal.
+- **Functionality:** Inside the portal, the contact can:
+
+  - View key claim details that you have configured to be visible.
+  - Upload files directly to the claim’s **Files** tab.
+
+This feature is ideal for keeping clients informed and for securely receiving documents from third parties.
+
+## Claim Accounting Overview
+[Skip to content](https://docs.claimmosaic.com/claims/claim-detail/accounting-tab/#_top)
+
+# Accounting Tab
+
+The **Accounting** tab is your financial command center for each claim. It provides a detailed breakdown of all monetary transactions, from initial settlements to final commissions, ensuring accurate financial tracking.
+
+The tab is divided into several sub-sections, accessible from the left-hand menu.
+
+### Summary
+
+[Section titled “Summary”](https://docs.claimmosaic.com/claims/claim-detail/accounting-tab/#summary)
+
+This is the main dashboard view for the claim’s finances. It provides a high-level overview with key metrics:
+
+- **Total Payments:** The sum of all payments received from the carrier.
+- **Funds to Client:** The portion of the total payments due to the client after deducting fees and billable expenses.
+- **Company Fee:**
+  - **Gross Company Fee:** The total fee calculated based on the fee structure (e.g., 20% of total payments).
+  - **Net Company Fee:** The Gross Company Fee minus any company-paid expenses and commissions.
+- **Time Logged:** A summary of total time and billable time logged in the **Activity** tab.
+
+### Generate Invoice
+
+[Section titled “Generate Invoice”](https://docs.claimmosaic.com/claims/claim-detail/accounting-tab/#generate-invoice)
+
+From the Summary view, you can generate a professional invoice for your client.
+
+1. Click the **Generate Invoice** button.
+2. In the “New Invoice” modal, enter the **Invoice Number**, **Invoice Date**, **Due Date**, and any specific **Terms**.
+3. Click **Generate**.
+
+The system will produce a clean, downloadable PDF invoice that includes your company logo, the client’s details, and a line item for the company fee.
+
+### Settlements
+
+[Section titled “Settlements”](https://docs.claimmosaic.com/claims/claim-detail/accounting-tab/#settlements)
+
+This section allows you to track settlement offers and proposals.
+
+- **Add Settlement:** Record a new settlement offer, including the date, coverage type, and amount.
+- **Outstanding vs. Recovered:** New settlements appear as “Outstanding.” Once you receive the funds, you can **Convert** the settlement into a payment, moving it to the “Recovered” category.
+
+### Payments
+
+[Section titled “Payments”](https://docs.claimmosaic.com/claims/claim-detail/accounting-tab/#payments)
+
+Here, you can manage all payments received from the carrier.
+
+- **Add Payment:** Manually add a payment or convert it from a settlement.
+- **Details:** You can record the check/reference number, date, and amount. You can also upload images of the front and back of the check for complete documentation.
+
+### Expenses
+
+[Section titled “Expenses”](https://docs.claimmosaic.com/claims/claim-detail/accounting-tab/#expenses)
+
+Track all costs associated with managing the claim.
+
+- **Add Expense:** Enter the date, amount, payee, and a description.
+- **Responsible Party:** Designate whether the expense was paid by the **Client** or the **Company**.
+- **Billable:** If an expense is marked as “Billable,” it will be deducted from the “Funds to Client” total. Non-billable company expenses are deducted from the “Net Company Fee.”
+
+### Commissions
+
+[Section titled “Commissions”](https://docs.claimmosaic.com/claims/claim-detail/accounting-tab/#commissions)
+
+The **Commissions** section helps you calculate and track payouts to your staff.
+
+1. Click **Add Commission Worksheet**.
+2. **Select Payments & Expenses:** Choose which outstanding payments and expenses to include in the calculation. This allows you to run commissions on partial payments.
+3. **Assign Commissions:** For each staff member on the claim, you can assign a commission based on:
+
+   - **Percentage:** A percentage of the Net Company Fee for the selected transactions.
+   - **Flat Fee:** A fixed dollar amount.
+   - **Time:** A rate multiplied by the billable hours logged by that staff member.
+
+The system automatically calculates the total commission for each staff member based on your inputs.
+
+## Claims and Management Overview
+https://docs.claimmosaic.com/https://docs.claimmosaic.com/claims/claim-detail/https://docs.claimmosaic.com/claims/claim-detail/accounting-tab/https://docs.claimmosaic.com/claims/claim-detail/activity-tab/https://docs.claimmosaic.com/claims/claim-detail/contacts-tab/https://docs.claimmosaic.com/claims/claim-detail/files-tab/https://docs.claimmosaic.com/claims/claim-detail/insurance-tab/https://docs.claimmosaic.com/claims/claim-detail/overview-tab/https://docs.claimmosaic.com/claims/claim-detail/tasks-tab/https://docs.claimmosaic.com/claims/claims-list/https://docs.claimmosaic.com/claims/overview/https://docs.claimmosaic.com/companies/https://docs.claimmosaic.com/companies/managing-companies/https://docs.claimmosaic.com/companies/overview/https://docs.claimmosaic.com/contacts/https://docs.claimmosaic.com/contacts/managing-contacts/https://docs.claimmosaic.com/contacts/overview/https://docs.claimmosaic.com/dashboard/activities/https://docs.claimmosaic.com/dashboard/admin-dashboard/https://docs.claimmosaic.com/dashboard/quick-add/https://docs.claimmosaic.com/dashboard/user-dashboard/https://docs.claimmosaic.com/getting-started/account-setup/https://docs.claimmosaic.com/getting-started/faq/https://docs.claimmosaic.com/getting-started/tiers-pricing/https://docs.claimmosaic.com/guides/example/https://docs.claimmosaic.com/leads/converting-to-claim/https://docs.claimmosaic.com/leads/lead-detail-page/https://docs.claimmosaic.com/leads/managing-leads/https://docs.claimmosaic.com/leads/overview/https://docs.claimmosaic.com/mosaic-view/calendar/https://docs.claimmosaic.com/mosaic-view/claim-board/https://docs.claimmosaic.com/mosaic-view/lead-board/https://docs.claimmosaic.com/mosaic-view/map-view/https://docs.claimmosaic.com/mosaic-view/task-board/https://docs.claimmosaic.com/reference/example/https://docs.claimmosaic.com/reports/https://docs.claimmosaic.com/reports/creating-reports/https://docs.claimmosaic.com/reports/overview/https://docs.claimmosaic.com/settings/access-rights/https://docs.claimmosaic.com/settings/automation/https://docs.claimmosaic.com/settings/billing/https://docs.claimmosaic.com/settings/document-templates/https://docs.claimmosaic.com/settings/external-portals/https://docs.claimmosaic.com/settings/fields/https://docs.claimmosaic.com/settings/general/https://docs.claimmosaic.com/settings/invoicing/https://docs.claimmosaic.com/settings/users/https://docs.claimmosaic.com/tasks/https://docs.claimmosaic.com/tasks/managing-tasks/https://docs.claimmosaic.com/tasks/overview/
+
+## Claim Activity Overview
+[Skip to content](https://docs.claimmosaic.com/claims/claim-detail/activity-tab/#_top)
+
+# Activity Tab
+
+The **Activity** tab provides a comprehensive, time-stamped diary of every action and communication related to the claim. This serves as the official record, ensuring a clear and auditable history from start to finish.
+
+### The Activity Feed
+
+[Section titled “The Activity Feed”](https://docs.claimmosaic.com/claims/claim-detail/activity-tab/#the-activity-feed)
+
+The main part of the tab is the activity feed, which displays all entries in reverse chronological order. Each entry shows who performed the action and when it occurred.
+
+### Adding New Activities
+
+[Section titled “Adding New Activities”](https://docs.claimmosaic.com/claims/claim-detail/activity-tab/#adding-new-activities)
+
+You can add several types of activities using the input box at the top of the feed:
+
+- **Note:** A general-purpose entry for internal comments, file updates, or any relevant information.
+- **Email:** Log communications sent or received via email.
+- **Phone Call:** Document conversations with clients, adjusters, or other parties.
+
+For any activity, you can also:
+
+- **Attach a file:** Link a document or image directly to the note.
+- **Log Time:** Enter the hours and minutes spent on the activity. You can mark this time as **Billable** to have it included in financial calculations on the Accounting tab.
+- **Mark as Confidential:** Check the “eye” icon to mark a note as confidential. Confidential notes can be excluded from generated reports for privacy.
+
+### Filtering the Feed
+
+[Section titled “Filtering the Feed”](https://docs.claimmosaic.com/claims/claim-detail/activity-tab/#filtering-the-feed)
+
+To quickly find specific information, you can use the filter buttons at the top of the feed to show only:
+
+- All
+- Note
+- Email
+- Phone Call
+- Confidential
+- Task
+
+### Managing Activities
+
+[Section titled “Managing Activities”](https://docs.claimmosaic.com/claims/claim-detail/activity-tab/#managing-activities)
+
+- **Pin Activity:** Click the thumbtack icon on an important entry to pin it to the top of the activity feed for easy reference.
+- **Delete Activity:** Users with appropriate permissions (typically Admins and Owners) can delete an activity by clicking the trash can icon.
+
+## Claim Tasks Overview
+[Skip to content](https://docs.claimmosaic.com/claims/claim-detail/tasks-tab/#_top)
+
+# Tasks Tab
+
+The **Tasks** tab provides a dedicated space to manage all actionable items related to a claim. This helps you and your team stay organized and ensures that all necessary steps are completed on time.
+
+### The Task List
+
+[Section titled “The Task List”](https://docs.claimmosaic.com/claims/claim-detail/tasks-tab/#the-task-list)
+
+The main view is a table that lists all tasks for the current claim. The table includes the following columns:
+
+- **Status:** The current state of the task (e.g., Open, Completed).
+- **Title:** A brief name for the task.
+- **Policyholder:** The client associated with the task.
+- **Assigned To:** The staff member responsible for completing the task.
+- **Priority:** The urgency of the task (e.g., Normal, High).
+- **Date Due:** The deadline for the task.
+- **Assigned By:** The user who created the task.
+
+### Managing Tasks
+
+[Section titled “Managing Tasks”](https://docs.claimmosaic.com/claims/claim-detail/tasks-tab/#managing-tasks)
+
+- **Add a Task:** Click the **Add** button to create a new task. A modal will appear where you can fill in the details.
+- **Update a Task:** Click on any task in the list to open the **Update Task** modal. Here you can:
+
+  - Change the **Title** and **Description**.
+  - Adjust the **Priority** and **Due Date**.
+  - **Re-assign** the task to a different staff member.
+  - Add supplementary **Notes**.
+  - Use the **Notify Now** option to send an immediate notification to the assignee.
+
+## Claims Overview
+[Skip to content](https://docs.claimmosaic.com/claims/claims-list/#_top)
+
+# Claims List
+
+When you navigate to the Claims section, you land on the **Claims List**. This page displays all the claims in the system in a paginated table, providing a high-level overview of key information at a glance.
+
+## Searching and Filtering
+
+[Section titled “Searching and Filtering”](https://docs.claimmosaic.com/claims/claims-list/#searching-and-filtering)
+
+To efficiently manage and locate claims, you have two primary tools available on this page: a real-time search and an advanced filtering system.
+
+### Real-Time Search
+
+[Section titled “Real-Time Search”](https://docs.claimmosaic.com/claims/claims-list/#real-time-search)
+
+The search bar located at the top right of the claims table allows for a quick and effective way to find claims. As you type into the search box, the list of claims is refined in real-time to match your query, searching across all relevant fields.
+
+For example, typing `nic` will instantly filter the list to show only claims where “nic” appears, such as in a policyholder’s name like “Nicole Samson.”
+
+### Advanced Filters
+
+[Section titled “Advanced Filters”](https://docs.claimmosaic.com/claims/claims-list/#advanced-filters)
+
+For more specific queries, the **Filters** button opens a comprehensive side panel with numerous criteria to narrow down your claims list.
+
+You can filter by a wide range of fields, including:
+
+- Claim Status
+- Insurance Company
+- Mortgage Company
+- Date of Loss
+- Licensed User
+- Fee Type
+- And many more…
+
+#### Saved Filters
+
+[Section titled “Saved Filters”](https://docs.claimmosaic.com/claims/claims-list/#saved-filters)
+
+To save time, you can create and save combinations of filters that you use frequently. The system comes with several default saved filters, such as “All Open Claims” and “All Inactive Claims,” which you can use, modify, or delete as needed.
+
+To use a saved filter:
+
+1. Click the **Filters** button to open the panel.
+2. Expand the **Saved Filters** dropdown.
+3. Select the desired filter (e.g., “Ins & Est”).
+4. Click **Apply Filters**.
+
+The list will update to show only the claims that match the criteria of your saved filter.
+
+## Quick Actions
+
+[Section titled “Quick Actions”](https://docs.claimmosaic.com/claims/claims-list/#quick-actions)
+
+The list view also provides several shortcuts to perform common actions without needing to open the full claim detail page.
+
+- **Quick Add Menu** (`...`): Click the three-dot icon on the left of a claim row to open the Quick Add menu. From here, you can instantly:
+  - **Add Activity:** Log a new note, email, or phone call.
+  - **Add Task:** Create and assign a new task for the claim.
+  - **Copy Email:** Copy the unique claim email address to your clipboard.
+- **Change Status**: Click the pencil icon next to the `Claim Status` to quickly update the status of a claim.
+
+- **Inactivity Flag**: The system automatically flags claims with no recent activity. A red flag indicates that a claim has been inactive for 30 or more days, helping you identify stalled files.
+
+## Claims Management Overview
+[Skip to content](https://docs.claimmosaic.com/claims/overview/#_top)
+
+# Claims Overview
+
+The **Claims Overview** section is the central hub of the application, providing all your claim management activities and a comprehensive suite of tools to track every claim from start to finish.
+
+From the main claims dashboard, you can:
+
+- View a comprehensive list of all claims
+- Search and apply filters to find specific records
+- Access the detailed view for claims to manage policy details, contracts, financials, etc
+- Use this as your primary workspace for day-to-day operations, ensuring all relevant information is organized, accessible and current
+
+## Company Directory
+[Skip to content](https://docs.claimmosaic.com/companies/#_top)
+
+# Companies
+
+## Managing Companies Overview
+[Skip to content](https://docs.claimmosaic.com/companies/managing-companies/#_top)
+
+# Managing Companies
+
+The Companies list view provides a straightforward directory of all organizations in your system. Like other list views, it includes search and filtering capabilities to help you quickly locate company records.
+
+### Company Detail Page
+
+[Section titled “Company Detail Page”](https://docs.claimmosaic.com/companies/managing-companies/#company-detail-page)
+
+Clicking on a company from the list opens its detail page, which is organized into several tabs:
+
+#### 1\. Overview Tab
+
+[Section titled “1. Overview Tab”](https://docs.claimmosaic.com/companies/managing-companies/#1-overview-tab)
+
+The **Overview** tab contains the primary information for the company:
+
+- **Company Name:** The official name of the organization.
+- **Email & Phone Number:** Primary contact details for the company.
+- **Address:** The main corporate or mailing address.
+- **Details:** A field for any additional notes or information.
+
+#### 2\. Contacts Tab
+
+[Section titled “2. Contacts Tab”](https://docs.claimmosaic.com/companies/managing-companies/#2-contacts-tab)
+
+This tab displays a list of all individual contacts associated with this company. For example, for an insurance company, this list might include all the adjusters, agents, and supervisors you have worked with from that carrier. This provides a quick way to see all your points of contact for a specific organization.
+
+#### 3\. Claims Tab
+
+[Section titled “3. Claims Tab”](https://docs.claimmosaic.com/companies/managing-companies/#3-claims-tab)
+
+The **Claims** tab shows a filtered list of all claims in your system where this company is involved. This is a powerful feature for quickly reviewing your entire case history with a specific insurance carrier or mortgage company.
+
+#### 4\. Files and Notes Tabs
+
+[Section titled “4. Files and Notes Tabs”](https://docs.claimmosaic.com/companies/managing-companies/#4-files-and-notes-tabs)
+
+These tabs function as dedicated repositories for documents and notes that are specific to the company record itself, rather than an individual claim. This is useful for storing master service agreements, company-wide contact lists, or general notes about your relationship with the organization.
+
+## Companies Directory Overview
+[Skip to content](https://docs.claimmosaic.com/companies/overview/#_top)
+
+# Companies Overview
+
+The **Companies** section serves as your centralized address book or directory for all the organizations you interact with during the claims process. This includes insurance carriers, mortgage companies, engineering firms, and any other third-party entity.
+
+By maintaining a central repository for company information, you can:
+
+- Standardize contact information across all claims.
+- Quickly access details for any company you work with.
+- View all associated contacts and claims linked to a specific company.
+
+This feature is designed to be very similar to the Contacts system but is tailored specifically for managing organizational entities rather than individuals.
+
+## Claim Mosaic Contacts
+[Skip to content](https://docs.claimmosaic.com/contacts/#_top)
+
+# Contacts
+
+## Contact Management System
+[Skip to content](https://docs.claimmosaic.com/contacts/managing-contacts/#_top)
+
+# Managing Contacts
+
+The Contacts section provides a simple yet powerful interface for managing your entire network of individuals.
+
+### The Contacts List
+
+[Section titled “The Contacts List”](https://docs.claimmosaic.com/contacts/managing-contacts/#the-contacts-list)
+
+The main page of the Contacts section displays an alphabetized list of all contacts in your system. From here, you can quickly see their primary phone number and email address.
+
+Like other list views in the application, you can use the **Search** bar to find contacts in real-time or use the **Filters** panel to narrow down the list by specific criteria, such as:
+
+- **State** or **City**
+- **Contact Type** (e.g., show only “Attorneys” or “Policyholders”)
+- **Licensed User**
+
+### The Contact Detail Page
+
+[Section titled “The Contact Detail Page”](https://docs.claimmosaic.com/contacts/managing-contacts/#the-contact-detail-page)
+
+Clicking on any contact in the list opens their **Contact Detail Page**. This page is organized into tabs to provide a complete 360-degree view of the individual.
+
+#### Overview Tab
+
+[Section titled “Overview Tab”](https://docs.claimmosaic.com/contacts/managing-contacts/#overview-tab)
+
+This tab contains the contact’s core personal information:
+
+- First and Last Name
+- Email and Phone Number (with options for secondary contacts)
+- Address
+- Date of Birth (DOB)
+
+#### Contact Types
+
+[Section titled “Contact Types”](https://docs.claimmosaic.com/contacts/managing-contacts/#contact-types)
+
+At the top of the detail page, you can assign one or more **Contact Types** to a person. This is how you “tag” or categorize them within the system. For example, a single contact can be tagged as both a `Policyholder` and a `Lead`, or as an `Adjuster` and an `Appraiser`. This flexible tagging is used for filtering and reporting.
+
+#### Claims Tab
+
+[Section titled “Claims Tab”](https://docs.claimmosaic.com/contacts/managing-contacts/#claims-tab)
+
+The **Claims** tab shows a complete list of every claim that this individual is associated with. This provides an instant history of your interactions and cases with that person, allowing you to quickly reference past files.
+
+#### Files Tab
+
+[Section titled “Files Tab”](https://docs.claimmosaic.com/contacts/managing-contacts/#files-tab)
+
+This tab is a repository for documents that are specific to the contact themselves, rather than a particular claim. It’s the perfect place to store:
+
+- W-9 forms
+- Professional licenses
+- Personnel records for staff members
+- Signed service agreements
+
+#### Notes Tab
+
+[Section titled “Notes Tab”](https://docs.claimmosaic.com/contacts/managing-contacts/#notes-tab)
+
+The **Notes** tab is for adding general notes about the contact that are not tied to a specific claim. This is useful for recording relationship details, communication preferences, or any other relevant information you want to keep on file for that person.
+
+## Contacts Overview
+[Skip to content](https://docs.claimmosaic.com/contacts/overview/#_top)
+
+# Contacts Overview
+
+The **Contacts** section is a unified Customer Relationship Management (CRM) system that serves as a central directory for every individual you interact with. Unlike other systems that might have separate lists for clients and staff, this section consolidates everyone into a single, manageable database.
+
+### A Single Source of Truth
+
+[Section titled “A Single Source of Truth”](https://docs.claimmosaic.com/contacts/overview/#a-single-source-of-truth)
+
+Every person, regardless of their role, is stored here. This includes:
+
+- **Policyholders** (Clients)
+- **Users** (Your internal staff)
+- **Adjusters**
+- **Attorneys**
+- **Engineers**
+- Any other individual involved in a claim or lead
+
+This unified approach prevents duplicate entries and ensures that you have a single, authoritative record for each person. A contact can be associated with multiple claims, leads, or companies, and all of these relationships are tracked within their individual contact record.
+
+From this section, you can add new contacts, search and filter your entire directory, and access detailed records for each individual.
+
+## User Activities Feed
+[Skip to content](https://docs.claimmosaic.com/dashboard/activities/#_top)
+
+# Activities Feed
+
+The **Activities** feed, located at the bottom of the User Dashboard, provides a chronological log of recent actions taken on records you have access to. It helps you stay informed about updates, communications, and task completions without needing to check each record individually.
+
+## Viewing and Filtering Activities
+
+[Section titled “Viewing and Filtering Activities”](https://docs.claimmosaic.com/dashboard/activities/#viewing-and-filtering-activities)
+
+The feed is designed to be easy to scan and filter, so you can quickly find the information you need.
+
+### Time-Based Filters
+
+[Section titled “Time-Based Filters”](https://docs.claimmosaic.com/dashboard/activities/#time-based-filters)
+
+You can filter the activities shown based on a specific time period. The available options are:
+
+- **Today:** Shows all activities that occurred today.
+- **Yesterday:** Shows all activities from the previous day.
+- **Last 7 Days:** Displays a summary of all activities over the past week.
+
+### Activity Type Filters
+
+[Section titled “Activity Type Filters”](https://docs.claimmosaic.com/dashboard/activities/#activity-type-filters)
+
+In addition to filtering by time, you can also filter by the type of activity. This is useful for focusing on specific kinds of interactions, such as communications or tasks.
+
+The available type filters include:
+
+- **All** (Default)
+- **Note**
+- **Email**
+- **Phone Call**
+- **Confidential**
+- **Task**
+
+### Personalized View
+
+[Section titled “Personalized View”](https://docs.claimmosaic.com/dashboard/activities/#personalized-view)
+
+The Activities feed is personalized for each user.
+
+- **Standard Users** will see activities related only to records they are assigned to or have permission to view.
+- **Admins and Owners** will see a system-wide feed of all activities, reflecting their broader access rights.
+
+## Admin Dashboard Overview
+[Skip to content](https://docs.claimmosaic.com/dashboard/admin-dashboard/#_top)
+
+# Admin Dashboard
+
+The Admin Dashboard provides a powerful, centralized view for monitoring all user activities within the system. It serves as a comprehensive audit log, allowing administrators and owners to track actions performed on any record.
+
+## User Activities Log
+
+[Section titled “User Activities Log”](https://docs.claimmosaic.com/dashboard/admin-dashboard/#user-activities-log)
+
+The primary feature of the Admin Dashboard is the **User Activities** log. This detailed table provides a chronological record of all significant actions taken by users across the platform.
+
+The log includes the following columns:
+
+| Column | Description |
+| :-- | :-- |
+| **User** | The name of the user who performed the action. |
+| **Activity** | The type of action performed (e.g., Read, Create, Update, Delete). |
+| **Record Type** | The type of record that was affected (e.g., Company, Lead, Claim). |
+| **Record** | A link to the specific record that was accessed or modified. |
+| **IP Address** | The IP address from which the user performed the action. |
+| **Date** | The exact date and time the activity occurred. |
+
+## Filtering and Exporting
+
+[Section titled “Filtering and Exporting”](https://docs.claimmosaic.com/dashboard/admin-dashboard/#filtering-and-exporting)
+
+To help you find specific information quickly, the User Activities log includes robust filtering options and an export feature.
+
+### Filtering Activities
+
+[Section titled “Filtering Activities”](https://docs.claimmosaic.com/dashboard/admin-dashboard/#filtering-activities)
+
+You can apply filters to narrow down the activity log based on:
+
+- **Users:** Select one or more users to see only their activities.
+- **Record Type:** Filter the log to show actions on specific record types, like `Claim` or `Lead`.
+- **Date Range:** Use the date picker to view activities within a specific time frame.
+
+After setting your criteria, click the **Apply Filters** button to update the list.
+
+### Export to Excel
+
+[Section titled “Export to Excel”](https://docs.claimmosaic.com/dashboard/admin-dashboard/#export-to-excel)
+
+For external reporting, auditing, or analysis, you can export the currently filtered view of the activity log to an Excel spreadsheet by clicking the **Export to Excel** button.
+
+## Quick Add Feature
+[Skip to content](https://docs.claimmosaic.com/dashboard/quick-add/#_top)
+
+# Quick Add Menu
+
+The **Quick Add** menu is a convenient, time-saving feature that allows you to create new records without leaving your current page. It is accessible from the top-right corner of the main application header on any page.
+
+## Using Quick Add
+
+[Section titled “Using Quick Add”](https://docs.claimmosaic.com/dashboard/quick-add/#using-quick-add)
+
+1. Click the **Quick Add** button in the header.
+2. A dropdown menu will appear with a list of record types you can create.
+3. Select the desired option to open the creation form for that record.
+
+### Available Options
+
+[Section titled “Available Options”](https://docs.claimmosaic.com/dashboard/quick-add/#available-options)
+
+The Quick Add menu allows you to create the following types of records:
+
+- **Add Claim:** Start a new claim file.
+- **Add Lead:** Enter a new potential client or job.
+- **Add Contact:** Create a new individual contact record.
+- **Add Company:** Add a new company record to the system.
+
+## User Dashboard
+[Skip to content](https://docs.claimmosaic.com/dashboard/user-dashboard/#_top)
+
+# User Dashboard
+
+The User Dashboard is the first page you see upon logging in. It’s designed to give you a high-level overview of your most important tasks, claims, and leads at a glance. The dashboard is personalized to show data relevant to you based on your user permissions.
+
+## Key Metric Charts
+
+[Section titled “Key Metric Charts”](https://docs.claimmosaic.com/dashboard/user-dashboard/#key-metric-charts)
+
+At the top of the dashboard, you’ll find four key metric charts that summarize your current workload. Each of these charts is interactive; you can click on any of them to navigate directly to a detailed list of the corresponding items.
+
+- **Assigned Tasks:** Shows the total count of tasks currently assigned to you.
+- **Overdue Tasks:** Highlights the number of your assigned tasks that have passed their due date.
+- **Claims Assigned:** Displays the total number of claims assigned to you.
+- **Leads Assigned:** Shows the total count of leads assigned to you.
+
+## Data Visualization Charts
+
+[Section titled “Data Visualization Charts”](https://docs.claimmosaic.com/dashboard/user-dashboard/#data-visualization-charts)
+
+Below the key metrics, two interactive radar charts provide a visual breakdown of your claims and leads by their current status.
+
+### Claim Chart
+
+[Section titled “Claim Chart”](https://docs.claimmosaic.com/dashboard/user-dashboard/#claim-chart)
+
+The Claim Chart visualizes the distribution of your claims across different stages of the workflow, such as:
+
+- Originated - New Claim
+- Estimating
+- Inspection
+- Mediation
+- Duplicate
+
+### Lead Chart
+
+[Section titled “Lead Chart”](https://docs.claimmosaic.com/dashboard/user-dashboard/#lead-chart)
+
+Similarly, the Lead Chart shows the status of your leads, categorized into stages like:
+
+- New Lead
+- Contacted
+- Converted to Claim
+
+### Interacting with Charts
+
+[Section titled “Interacting with Charts”](https://docs.claimmosaic.com/dashboard/user-dashboard/#interacting-with-charts)
+
+You can customize the chart view and drill down into the data:
+
+- **Filter Data:** Click on any item in the chart’s legend to toggle its visibility. This allows you to focus on the specific statuses that are most important to you.
+- **Drill Down:** Click on a specific colored segment within the chart itself to navigate to a pre-filtered list showing all items in that status. For example, clicking the “Estimating” segment will take you to a list of all claims currently in the estimating phase.
+
+## Main Navigation
+
+[Section titled “Main Navigation”](https://docs.claimmosaic.com/dashboard/user-dashboard/#main-navigation)
+
+The main navigation sidebar on the left provides access to all modules in the application. You can collapse or expand it at any time to maximize your screen real estate.
+
+- **Click the hamburger menu icon (`☰`)** at the top of the sidebar to collapse it.
+- **Click the icon again** to expand it.
+
+## Claim Mosaic Setup
+[Skip to content](https://docs.claimmosaic.com/getting-started/account-setup/#_top)
+
+# Account Setup
+
+# Account Setup
+
+[Section titled “Account Setup”](https://docs.claimmosaic.com/getting-started/account-setup/#account-setup)
+
+Once you’ve created your Claim Mosaic account, follow these essential steps to get your workspace ready:
+
+## 1\. Configure Your Personal Profile
+
+[Section titled “1. Configure Your Personal Profile”](https://docs.claimmosaic.com/getting-started/account-setup/#1-configure-your-personal-profile)
+
+Click on your **profile icon** in the top-right corner of the Claim Mosaic interface to:
+
+- Set your personal information (name, phone, email)
+- Configure your notification preferences
+- Choose how you want to receive updates about claims, tasks, and activities
+- Set your timezone and working hours
+
+This ensures you receive the right notifications at the right time and that your team can reach you when needed.
+
+## 2\. Add Team Members (Admin/Owner Users)
+
+[Section titled “2. Add Team Members (Admin/Owner Users)”](https://docs.claimmosaic.com/getting-started/account-setup/#2-add-team-members-adminowner-users)
+
+If you’re the initial admin or owner of your workspace, you’ll need to add your team members:
+
+1. **Check Available Licenses**: Go to [Settings → Billing & Payment](https://docs.claimmosaic.com/settings/billing/) to see how many user licenses you have available
+2. **Add Licenses if Needed**: If you don’t have enough licenses, you can [purchase additional user licenses](https://docs.claimmosaic.com/settings/billing/) through the billing system
+3. **Add Users**: Navigate to [Settings → User Management](https://docs.claimmosaic.com/settings/users/) to invite team members and assign appropriate access roles
+
+**Important**: Only users with **Owner** access can manage billing and user licenses. Regular admins can manage users but cannot modify billing settings.
+
+## 3\. Set Up Your Workspace
+
+[Section titled “3. Set Up Your Workspace”](https://docs.claimmosaic.com/getting-started/account-setup/#3-set-up-your-workspace)
+
+- Configure your company information in [General Settings](https://docs.claimmosaic.com/settings/general/)
+- Set up document templates for consistent claim documentation
+- Configure automation rules to streamline your workflows
+- Customize fields to match your firm’s specific needs
+
+## Account Setup FAQ
+[Skip to content](https://docs.claimmosaic.com/getting-started/faq/#_top)
+
+# FAQ
+
+# Frequently Asked Questions
+
+[Section titled “Frequently Asked Questions”](https://docs.claimmosaic.com/getting-started/faq/#frequently-asked-questions)
+
+## Getting Started
+
+[Section titled “Getting Started”](https://docs.claimmosaic.com/getting-started/faq/#getting-started)
+
+### How do I set up my profile after creating my account?
+
+[Section titled “How do I set up my profile after creating my account?”](https://docs.claimmosaic.com/getting-started/faq/#how-do-i-set-up-my-profile-after-creating-my-account)
+
+Click on your **profile icon** in the top-right corner of the Claim Mosaic interface to configure your personal information, notification preferences, timezone, and working hours. This ensures you receive the right notifications and your team can reach you when needed.
+
+### I’m the account owner - how do I add my team members?
+
+[Section titled “I’m the account owner - how do I add my team members?”](https://docs.claimmosaic.com/getting-started/faq/#im-the-account-owner---how-do-i-add-my-team-members)
+
+1. First, check your available licenses in [Settings → Billing & Payment](https://docs.claimmosaic.com/settings/billing/)
+2. If you need more licenses, purchase additional user licenses through the billing system
+3. Navigate to [Settings → User Management](https://docs.claimmosaic.com/settings/users/) to invite team members and assign access roles
+
+### What’s the difference between Owner and Admin access?
+
+[Section titled “What’s the difference between Owner and Admin access?”](https://docs.claimmosaic.com/getting-started/faq/#whats-the-difference-between-owner-and-admin-access)
+
+**Owners** can manage billing, user licenses, and all system settings. **Admins** can manage users and most settings but cannot modify billing information. Regular users have access to claims, leads, and tasks based on their assigned permissions.
+
+### How many user licenses do I get with my plan?
+
+[Section titled “How many user licenses do I get with my plan?”](https://docs.claimmosaic.com/getting-started/faq/#how-many-user-licenses-do-i-get-with-my-plan)
+
+License limits vary by plan tier. Check your current license count and available slots in [Settings → Billing & Payment](https://docs.claimmosaic.com/settings/billing/). You can upgrade your plan or purchase additional licenses if needed.
+
+## Account Setup
+
+[Section titled “Account Setup”](https://docs.claimmosaic.com/getting-started/faq/#account-setup)
+
+### How do I configure notifications for my team?
+
+[Section titled “How do I configure notifications for my team?”](https://docs.claimmosaic.com/getting-started/faq/#how-do-i-configure-notifications-for-my-team)
+
+Each user can set their own notification preferences by clicking their profile icon. You can also configure system-wide notification settings in [Settings → General](https://docs.claimmosaic.com/settings/general/) if you’re an admin or owner.
+
+### What should I set up first after creating my account?
+
+[Section titled “What should I set up first after creating my account?”](https://docs.claimmosaic.com/getting-started/faq/#what-should-i-set-up-first-after-creating-my-account)
+
+1. Configure your personal profile and notification preferences
+2. Add your team members (if you’re an admin/owner)
+3. Set up your company information in General Settings
+4. Configure document templates and automation rules
+5. Customize fields to match your firm’s needs
+
+### Can I import existing data from another system?
+
+[Section titled “Can I import existing data from another system?”](https://docs.claimmosaic.com/getting-started/faq/#can-i-import-existing-data-from-another-system)
+
+Yes, Claim Mosaic supports data import for contacts, companies, and claims. Contact support for assistance with large data imports or specialized formats.
+
+## User Management
+
+[Section titled “User Management”](https://docs.claimmosaic.com/getting-started/faq/#user-management)
+
+### How do I assign different access levels to my team?
+
+[Section titled “How do I assign different access levels to my team?”](https://docs.claimmosaic.com/getting-started/faq/#how-do-i-assign-different-access-levels-to-my-team)
+
+Navigate to [Settings → Access Rights](https://docs.claimmosaic.com/settings/access-rights/) to view all users and change their access roles. You can assign Owner, Admin, Editor, or Viewer roles based on what each team member needs to access.
+
+### What happens if I disable a user instead of deleting them?
+
+[Section titled “What happens if I disable a user instead of deleting them?”](https://docs.claimmosaic.com/getting-started/faq/#what-happens-if-i-disable-a-user-instead-of-deleting-them)
+
+Disabled users cannot log in, but their license becomes available for new users. Their historical activity and data remain intact for auditing and reporting purposes. This is the recommended approach for preserving data integrity.
+
+### Can I see who has access to what in my workspace?
+
+[Section titled “Can I see who has access to what in my workspace?”](https://docs.claimmosaic.com/getting-started/faq/#can-i-see-who-has-access-to-what-in-my-workspace)
+
+Yes, go to [Settings → Access Rights & Permissions](https://docs.claimmosaic.com/settings/access-rights/) to view detailed permission settings for each user role and customize access levels as needed.
+
+## Billing & Licenses
+
+[Section titled “Billing & Licenses”](https://docs.claimmosaic.com/getting-started/faq/#billing--licenses)
+
+### How do I upgrade my plan to get more features?
+
+[Section titled “How do I upgrade my plan to get more features?”](https://docs.claimmosaic.com/getting-started/faq/#how-do-i-upgrade-my-plan-to-get-more-features)
+
+Go to [Settings → Billing & Payment](https://docs.claimmosaic.com/settings/billing/) to view available plan tiers and upgrade options. You can upgrade at any time to access more advanced features.
+
+### What happens if I exceed my eSignature limit?
+
+[Section titled “What happens if I exceed my eSignature limit?”](https://docs.claimmosaic.com/getting-started/faq/#what-happens-if-i-exceed-my-esignature-limit)
+
+Your plan includes a certain number of eSignatures per billing cycle. If you exceed this limit, you can purchase additional eSignatures through the billing system to continue using the feature without interruption.
+
+### Can I downgrade my plan?
+
+[Section titled “Can I downgrade my plan?”](https://docs.claimmosaic.com/getting-started/faq/#can-i-downgrade-my-plan)
+
+To downgrade your plan, you must contact support. This ensures you’re aware of any features or data that may become unavailable on a lower tier.
+
+## Getting Help
+
+[Section titled “Getting Help”](https://docs.claimmosaic.com/getting-started/faq/#getting-help)
+
+### Where can I find more detailed guides for specific features?
+
+[Section titled “Where can I find more detailed guides for specific features?”](https://docs.claimmosaic.com/getting-started/faq/#where-can-i-find-more-detailed-guides-for-specific-features)
+
+Browse the documentation sections for detailed guides on claims management, lead tracking, task organization, reporting, and system configuration. Each section includes step-by-step instructions and best practices.
+
+### How do I contact support if I need help?
+
+[Section titled “How do I contact support if I need help?”](https://docs.claimmosaic.com/getting-started/faq/#how-do-i-contact-support-if-i-need-help)
+
+You can contact Claim Mosaic support through the help system within the application or visit the support section on the Claim Mosaic website for additional resources and contact information.
+
+## Tiers and Pricing
+[Skip to content](https://docs.claimmosaic.com/getting-started/tiers-pricing/#_top)
+
+# Tiers & Pricing
+
+# Tiers & Pricing
+
+[Section titled “Tiers & Pricing”](https://docs.claimmosaic.com/getting-started/tiers-pricing/#tiers--pricing)
+
+Claim Mosaic offers three subscription tiers designed to meet the needs of public adjusting firms of all sizes. All plans include a 14-day free trial with no credit card required.
+
+## Simple Plan
+
+[Section titled “Simple Plan”](https://docs.claimmosaic.com/getting-started/tiers-pricing/#simple-plan)
+
+**$9/user/month - Perfect for small firms**
+
+- **User Limit**: Up to 3 users
+- **Core Features**:
+
+  - Unlimited Claims
+  - Basic Reporting
+  - Email Support
+
+## Professional Plan
+
+[Section titled “Professional Plan”](https://docs.claimmosaic.com/getting-started/tiers-pricing/#professional-plan)
+
+**$36/user/month - For growing firms**
+
+- **User Limit**: Unlimited users
+- **Everything in Simple, plus**:
+
+  - Custom Fields
+  - Advanced Reporting
+  - Priority Support
+  - Custom Document Templates
+
+## Enterprise Plan
+
+[Section titled “Enterprise Plan”](https://docs.claimmosaic.com/getting-started/tiers-pricing/#enterprise-plan)
+
+**$66/user/month - AI-powered features**
+
+- **User Limit**: Unlimited users
+- **Everything in Professional, plus**:
+
+  - Mosaic AI
+  - E-Signatures
+  - Dedicated Account Manager
+
+## Plan Comparison
+
+[Section titled “Plan Comparison”](https://docs.claimmosaic.com/getting-started/tiers-pricing/#plan-comparison)
+
+| Feature | Simple | Professional | Enterprise |
+| --- | --- | --- | --- |
+| Users | Up to 3 | Unlimited | Unlimited |
+| Claims | Unlimited | Unlimited | Unlimited |
+| Reporting | Basic | Advanced | Advanced |
+| Custom Fields | ❌ | ✅ | ✅ |
+| Custom Document Templates | ❌ | ✅ | ✅ |
+| Mosaic AI | ❌ | ❌ | ✅ |
+| E-Signatures | ❌ | ❌ | ✅ |
+| Support | Email | Priority | Dedicated Account Manager |
+
+## Getting Started
+
+[Section titled “Getting Started”](https://docs.claimmosaic.com/getting-started/tiers-pricing/#getting-started)
+
+### Free Trial
+
+[Section titled “Free Trial”](https://docs.claimmosaic.com/getting-started/tiers-pricing/#free-trial)
+
+- **14-day free trial** for all plans
+- No credit card required
+- Full access to all features
+- Cancel anytime during trial
+
+### Plan Changes
+
+[Section titled “Plan Changes”](https://docs.claimmosaic.com/getting-started/tiers-pricing/#plan-changes)
+
+- Upgrade your tier at any time
+- Changes take effect immediately
+- Prorated billing adjustments
+- Downgrading requires assistance from support
+
+### Adding Users
+
+[Section titled “Adding Users”](https://docs.claimmosaic.com/getting-started/tiers-pricing/#adding-users)
+
+- Add users to your account at any time
+- Automatic billing adjustment based on current plan
+
+## Billing & Payment
+
+[Section titled “Billing & Payment”](https://docs.claimmosaic.com/getting-started/tiers-pricing/#billing--payment)
+
+### Payment Methods
+
+[Section titled “Payment Methods”](https://docs.claimmosaic.com/getting-started/tiers-pricing/#payment-methods)
+
+- All major credit cards
+- Secure processing through Stripe
+
+### Cancellation
+
+[Section titled “Cancellation”](https://docs.claimmosaic.com/getting-started/tiers-pricing/#cancellation)
+
+- Cancel anytime with no penalties
+- No hidden fees
+- Full data available upon request
+- Easy cancellation process
+
+## Example Guide
+[Skip to content](https://docs.claimmosaic.com/guides/example/#_top)
+
+# Example Guide
+
+Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
+Writing a good guide requires thinking about what your users are trying to do.
+
+## Further reading
+
+[Section titled “Further reading”](https://docs.claimmosaic.com/guides/example/#further-reading)
+
+- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+
+## Lead to Claim Process
+[Skip to content](https://docs.claimmosaic.com/leads/converting-to-claim/#_top)
+
+# Converting a Lead to a Claim
+
+Once a prospect has signed a contract and become a client, you can convert their lead record into an active claim. This action seamlessly transfers all existing information—including contact details, notes, tasks, and files—to a new claim record.
+
+To begin, navigate to the lead’s detail page and click the **Convert to Claim** button at the bottom right of the screen.
+
+You will be presented with two options for creating the new claim:
+
+### 1\. AI Policy Upload
+
+[Section titled “1. AI Policy Upload”](https://docs.claimmosaic.com/leads/converting-to-claim/#1-ai-policy-upload)
+
+This powerful option uses AI to automate data entry. Simply upload the client’s insurance policy document (PDF), and the system will scan it to automatically populate the policy details in the new claim record. This significantly reduces manual work and ensures accuracy.
+
+### 2\. Manual Entry
+
+[Section titled “2. Manual Entry”](https://docs.claimmosaic.com/leads/converting-to-claim/#2-manual-entry)
+
+If you don’t have the policy document yet or prefer to enter the information yourself, choose **Manual Entry**. This option will open a form where you can input the initial claim details, such as:
+
+- **Claim Status**
+- **Reason** for the claim
+- **Claim Number**
+- **Company Fee** structure
+- **Contract Date**
+
+The lead’s existing contact and address information will be automatically carried over to the new claim. After converting, the lead record will be archived, and you will be redirected to the newly created claim detail page to continue managing the file.
+
+## Lead Detail Overview
+[Skip to content](https://docs.claimmosaic.com/leads/lead-detail-page/#_top)
+
+# Lead Detail Page
+
+The **Lead Detail Page** provides a complete view of a single prospect. To access it, simply click on any lead from the main list view. The page is organized into several tabs, making it easy to find and manage all related information.
+
+### Overview Tab
+
+[Section titled “Overview Tab”](https://docs.claimmosaic.com/leads/lead-detail-page/#overview-tab)
+
+This is the main tab, containing the lead’s core information:
+
+- **Contact Information:** First Name, Last Name, Email, and Phone Number.
+- **Address:** The property address associated with the potential claim.
+- **Details:** A free-text field for any additional notes or context about the lead.
+- **Custom Fields:** Any custom fields you have configured for leads (e.g., “New Field,” “Property Type”) will also appear here.
+
+### Activity Tab
+
+[Section titled “Activity Tab”](https://docs.claimmosaic.com/leads/lead-detail-page/#activity-tab)
+
+The Activity tab functions exactly like the one in the Claims section. It provides a chronological feed of all interactions with the lead, including notes, emails, and phone calls. You can add new activities, attach files, and log billable time here.
+
+### Staff Tab
+
+[Section titled “Staff Tab”](https://docs.claimmosaic.com/leads/lead-detail-page/#staff-tab)
+
+This tab shows which of your internal users are assigned to or involved with the lead. You can add or remove staff members as needed to manage assignments.
+
+### Tasks Tab
+
+[Section titled “Tasks Tab”](https://docs.claimmosaic.com/leads/lead-detail-page/#tasks-tab)
+
+Manage all to-do items for the lead in the Tasks tab. You can add new tasks, assign them to staff members, set due dates and priorities, and track their status.
+
+### Files Tab
+
+[Section titled “Files Tab”](https://docs.claimmosaic.com/leads/lead-detail-page/#files-tab)
+
+The Files tab is the document repository for the lead. You can upload any relevant files, such as photos, initial correspondence, or unsigned documents. You can also create folders to keep the files organized.
+
+## Lead Management Tools
+[Skip to content](https://docs.claimmosaic.com/leads/managing-leads/#_top)
+
+# Managing Leads
+
+The **Leads List View** is the main dashboard for the Leads section. It presents all your leads in a table format, allowing you to quickly see their status and key details.
+
+## Searching and Filtering
+
+[Section titled “Searching and Filtering”](https://docs.claimmosaic.com/leads/managing-leads/#searching-and-filtering)
+
+Similar to the Claims list, the Leads list provides powerful tools to help you locate specific records quickly.
+
+### Real-Time Search
+
+[Section titled “Real-Time Search”](https://docs.claimmosaic.com/leads/managing-leads/#real-time-search)
+
+Use the search bar at the top right of the table to instantly filter the list as you type. The search scans across all lead fields, including name, address, phone, and email, to find matching records.
+
+### Advanced Filters
+
+[Section titled “Advanced Filters”](https://docs.claimmosaic.com/leads/managing-leads/#advanced-filters)
+
+For more granular control, click the **Filters** button to open the filtering panel. You can narrow down your leads based on criteria such as:
+
+- **Lead Status:** (e.g., New Lead, Contacted, Inspected)
+- **City** or **Postal Code**
+- **Licensed User:** The staff member assigned to the lead.
+- **Inactive Status:** Find leads that haven’t had recent activity.
+
+You can also create and use **Saved Filters** to quickly apply frequently used filter combinations.
+
+## Quick Actions
+
+[Section titled “Quick Actions”](https://docs.claimmosaic.com/leads/managing-leads/#quick-actions)
+
+From the list view, you can perform several actions without navigating to the full lead detail page.
+
+- **Quick Add Menu** (`...`): Click the three-dot icon to the left of any lead to:
+
+  - **Add Activity:** Log a note, email, or phone call.
+  - **Add Task:** Create a new to-do item for the lead.
+- **Change Lead Status**: Click the pencil icon next to the `Lead Status` to quickly update the lead’s progress through your pipeline.
+
+These shortcuts are designed to streamline your workflow and make lead management more efficient.
+
+## Leads Management Overview
+[Skip to content](https://docs.claimmosaic.com/leads/overview/#_top)
+
+# Leads Overview
+
+The **Leads** section is your starting point for managing potential clients and new claims. It functions as a precursor to the Claims section, providing a dedicated space to track prospects before they are officially signed as clients.
+
+This system helps you organize and nurture potential claims, ensuring no opportunity is missed.
+
+### Key Features
+
+[Section titled “Key Features”](https://docs.claimmosaic.com/leads/overview/#key-features)
+
+- **Centralized Lead Tracking:** View all your prospects in a clean, organized list.
+- **Efficient Management:** Use powerful search and filtering tools to quickly find and segment your leads.
+- **Seamless Conversion:** Easily convert a qualified lead into a full claim with just a few clicks, transferring all relevant information automatically.
+
+The Leads system is designed to be intuitive, mirroring the layout and functionality of the Claims section to provide a consistent user experience.
+
+## Calendar Task Management
+[Skip to content](https://docs.claimmosaic.com/mosaic-view/calendar/#_top)
+
+# Calendar
+
+The Calendar view provides a traditional monthly calendar interface to help you manage your tasks and their due dates. It’s an intuitive way to visualize your schedule and stay on top of your responsibilities.
+
+### Navigating the Calendar
+
+[Section titled “Navigating the Calendar”](https://docs.claimmosaic.com/mosaic-view/calendar/#navigating-the-calendar)
+
+- Use the **`<`** and **`>`** arrow buttons at the top-right of the calendar to move between months.
+- The calendar will highlight the current day.
+
+### Managing Tasks
+
+[Section titled “Managing Tasks”](https://docs.claimmosaic.com/mosaic-view/calendar/#managing-tasks)
+
+- **View Task Details:** Click on a task entry in the calendar to open a sidebar on the right. This sidebar displays all the details of the selected task, including its priority, associated claim/lead, and description.
+- **Update and Complete Tasks:** From the details sidebar, you can add notes, make changes, or mark the task as complete.
+- **Add a New Task:** Click the **`Add Task`** button at the top-right to create a new task directly from the calendar view.
+
+## Claim Management Board
+[Skip to content](https://docs.claimmosaic.com/mosaic-view/claim-board/#_top)
+
+# Claim Board
+
+The Claim Board provides a visual, Kanban-style interface for managing your claims. It allows you to see the status of all claims at a glance and easily move them through your workflow.
+
+## Navigating the Claim Board
+
+[Section titled “Navigating the Claim Board”](https://docs.claimmosaic.com/mosaic-view/claim-board/#navigating-the-claim-board)
+
+The board is organized into columns, with each column representing a different claim status (e.g., “Originated - New Claim,” “Inspection,” “Estimating”). Each claim is represented by a card within its respective status column.
+
+### Updating Claim Status
+
+[Section titled “Updating Claim Status”](https://docs.claimmosaic.com/mosaic-view/claim-board/#updating-claim-status)
+
+You can instantly update a claim’s status by dragging and dropping its card from one column to another.
+
+1. Click and hold the claim card you want to move.
+2. Drag it to the desired status column.
+3. Release the mouse button to drop the card. The claim’s status is updated and saved automatically.
+
+### Viewing and Adding Claims
+
+[Section titled “Viewing and Adding Claims”](https://docs.claimmosaic.com/mosaic-view/claim-board/#viewing-and-adding-claims)
+
+- **View Details:** Click on any claim card to navigate to its detailed overview page.
+- **Add a Claim:** You can add a new claim directly to a specific status column by clicking the **`+ Add another Claim`** button within that column.
+
+### Reordering Status Columns
+
+[Section titled “Reordering Status Columns”](https://docs.claimmosaic.com/mosaic-view/claim-board/#reordering-status-columns)
+
+Organize your workflow by dragging and dropping the status column headers into your preferred order. The system will save your custom layout.
+
+### Toggling Empty Statuses
+
+[Section titled “Toggling Empty Statuses”](https://docs.claimmosaic.com/mosaic-view/claim-board/#toggling-empty-statuses)
+
+By default, the board only shows status columns that currently contain at least one claim.
+
+- **Click the eyeball icon (`👁️`)** in the top-right corner to reveal all possible status columns, including empty ones.
+- This is useful if you need to move a claim to a status that is not currently active. Click the icon again to hide the empty columns.
+
+## Lead Board
+[Skip to content](https://docs.claimmosaic.com/mosaic-view/lead-board/#_top)
+
+# Lead Board
+
+The Lead Board uses a Kanban-style interface, similar to the Claim Board, to help you visually manage your leads. It allows you to track the progress of leads as they move from initial contact to conversion.
+
+## Using the Lead Board
+
+[Section titled “Using the Lead Board”](https://docs.claimmosaic.com/mosaic-view/lead-board/#using-the-lead-board)
+
+The board is organized into columns representing different lead statuses, such as “New Lead,” “Contacted,” and “Converted to Claim.”
+
+### Updating Lead Status
+
+[Section titled “Updating Lead Status”](https://docs.claimmosaic.com/mosaic-view/lead-board/#updating-lead-status)
+
+Easily update a lead’s status by dragging and dropping its card between columns.
+
+1. Click and hold the lead card you wish to update.
+2. Drag it to the new status column.
+3. Release the card to save the change.
+
+### Viewing and Adding Leads
+
+[Section titled “Viewing and Adding Leads”](https://docs.claimmosaic.com/mosaic-view/lead-board/#viewing-and-adding-leads)
+
+- **View Details:** Click on any lead card to open its full details page.
+- **Add a Lead:** You can create a new lead by clicking the **`+ Add another Lead`** button.
+
+## Customizing Your View
+
+[Section titled “Customizing Your View”](https://docs.claimmosaic.com/mosaic-view/lead-board/#customizing-your-view)
+
+You can toggle the visibility of empty status columns to customize your view.
+
+- **Click the eyeball icon (`👁️`)** in the top-right corner to show all possible lead statuses, even if no leads are currently in them.
+- This allows you to move a lead to a less common status if needed. Click the icon again to hide the empty columns.
+
+## Claims Map View
+[Skip to content](https://docs.claimmosaic.com/mosaic-view/map-view/#_top)
+
+# Map View
+
+The Map View provides a powerful geographical perspective of your claims, plotting each one as a pin on an interactive map. This is especially useful for planning routes, understanding claim clusters, and managing field inspections.
+
+The Map View is fully interactive, allowing you to zoom, pan, and filter to find the information you need.
+
+### Filtering by Status
+
+[Section titled “Filtering by Status”](https://docs.claimmosaic.com/mosaic-view/map-view/#filtering-by-status)
+
+On the left side of the screen, a filter panel lists all claim statuses. You can show or hide claims based on their status:
+
+- **Check a box** to display all claims of that status on the map.
+- **Uncheck a box** to hide them.
+
+The pins on the map are color-coded to correspond with their status, making it easy to identify different types of claims.
+
+### Viewing Claim Details
+
+[Section titled “Viewing Claim Details”](https://docs.claimmosaic.com/mosaic-view/map-view/#viewing-claim-details)
+
+- **Click on a map pin** to open a small pop-up window displaying key information about the claim, such as the claim number and policyholder name.
+- **Click the claim number or name** within the pop-up to navigate directly to the full claim details page.
+
+### Map and Satellite Views
+
+[Section titled “Map and Satellite Views”](https://docs.claimmosaic.com/mosaic-view/map-view/#map-and-satellite-views)
+
+You can switch between two map styles using the buttons at the top of the map:
+
+- **Map:** A standard, road-map style view.
+- **Satellite:** A satellite imagery view.
+
+## Task Board Overview
+[Skip to content](https://docs.claimmosaic.com/mosaic-view/task-board/#_top)
+
+# Task Board
+
+The Task Board provides a unique view of your tasks, organizing them vertically based on their due dates. This helps you prioritize your work and focus on what needs to be done now, next, and in the future.
+
+## Understanding the Task Board Layout
+
+[Section titled “Understanding the Task Board Layout”](https://docs.claimmosaic.com/mosaic-view/task-board/#understanding-the-task-board-layout)
+
+Unlike the Claim and Lead boards, the Task Board is not organized by status. Instead, it groups tasks into time-based columns, such as:
+
+- **30+ days overdue**
+- **7-14 days overdue**
+- **0-7 days overdue**
+- **Due in next 7 days**
+- **Due in next 7-30 days**
+
+## Managing Tasks
+
+[Section titled “Managing Tasks”](https://docs.claimmosaic.com/mosaic-view/task-board/#managing-tasks)
+
+- **View Details:** Click on any task card to see its full details and make updates.
+- **Complete a Task:** Quickly mark a task as complete by clicking the checkmark icon (`✓`) on the task card.
+
+## Customizing Your View
+
+[Section titled “Customizing Your View”](https://docs.claimmosaic.com/mosaic-view/task-board/#customizing-your-view)
+
+By default, the Task Board only displays columns that contain tasks.
+
+- **Click the eyeball icon (`👁️`)** in the top-right corner to display all possible time-based columns, even those that are empty. This gives you a complete overview of all time brackets.
+- Click the icon again to return to the default view.
+
+## Example Reference
+[Skip to content](https://docs.claimmosaic.com/reference/example/#_top)
+
+# Example Reference
+
+\*\*\*# \*\*\*\*\*
+Reference pages are ideal for outlining how things work in terse and clear terms.
+Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you’re documenting.
+
+## Further reading
+
+[Section titled “Further reading”](https://docs.claimmosaic.com/reference/example/#further-reading)
+
+- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+
+## ClaimMosaic Reports
+[Skip to content](https://docs.claimmosaic.com/reports/#_top)
+
+# Reports
+
+## Report Creation Guide
+[Skip to content](https://docs.claimmosaic.com/reports/creating-reports/#_top)
+
+# Creating and Customizing Reports
+
+Creating a report is a straightforward process that gives you full control over the data you want to present.
+
+### Step 1: Create a Report
+
+[Section titled “Step 1: Create a Report”](https://docs.claimmosaic.com/reports/creating-reports/#step-1-create-a-report)
+
+1. Navigate to the **Reports** section.
+2. Click the **+** button at the top right.
+3. Select the type of report you want to create:
+   - Create Claim Report
+   - Create Lead Report
+   - Create Contact Report
+   - Create Company Report
+
+### Step 2: Configure the Report
+
+[Section titled “Step 2: Configure the Report”](https://docs.claimmosaic.com/reports/creating-reports/#step-2-configure-the-report)
+
+You will be taken to the **Report Builder** page, where you can configure the report’s content and layout.
+
+1. **Title:** Give your report a descriptive title.
+2. **Filter:** This is the most important step. Select one of your **Saved Filters** from the dropdown menu. The data in your report will be based entirely on the criteria of this filter.
+3. **Permissions:** (Optional) Set which users or user roles can view and run this report.
+4. **Sort:** Choose a primary field to sort the report data by (e.g., sort claims by `Claim Number`).
+5. **Fields:** Select the checkboxes for each data field you want to include as a column in your report. You can choose from any standard or custom field associated with the record type.
+
+### Step 3: Generate and Export
+
+[Section titled “Step 3: Generate and Export”](https://docs.claimmosaic.com/reports/creating-reports/#step-3-generate-and-export)
+
+Once you have configured the report, a live preview will be generated in the main window.
+
+- **Review:** Check the preview to ensure the report contains the correct data and columns.
+- **Export:** Click the **Export** button to download the report as a PDF file.
+- **Save:** Click **Save** to save this report configuration. It will now appear in your main Reports list, ready to be run again at any time.
+
+## Reports Overview
+[Skip to content](https://docs.claimmosaic.com/reports/overview/#_top)
+
+# Reports Overview
+
+The **Reports** section is a powerful tool that allows you to generate detailed, list-style reports based on the data you’ve stored in the Claims, Leads, Contacts, and Companies sections. This feature is built upon the filtering system, enabling you to create highly specific and customized data exports.
+
+### How It Works
+
+[Section titled “How It Works”](https://docs.claimmosaic.com/reports/overview/#how-it-works)
+
+The reporting tool is directly tied to the **Saved Filters** you create in other sections of the application. To generate a report, you first create and save a filter that isolates the exact data set you need.
+
+For example, you could create a saved filter in the Claims section for “All Hurricane Claims Closed This Year.” This saved filter will then appear in the Reports section as a template for a new report.
+
+### Key Features
+
+[Section titled “Key Features”](https://docs.claimmosaic.com/reports/overview/#key-features)
+
+- **Custom Report Generation:** Build reports for Claims, Leads, Contacts, or Companies.
+- **Filter-Based Logic:** Use your saved filters as the foundation for any report.
+- **Customizable Fields:** Select exactly which data fields (columns) you want to include in your final report.
+- **Exportable Data:** Export your generated reports to a clean, professional PDF format.
+
+## User Access Management
+[Skip to content](https://docs.claimmosaic.com/settings/access-rights/#_top)
+
+# Access Rights & Permissions
+
+The **Access Rights** page allows you to manage permissions by defining roles that can be assigned to users. This gives you granular control over what each team member can see and do within the system.
+
+### Default Roles
+
+[Section titled “Default Roles”](https://docs.claimmosaic.com/settings/access-rights/#default-roles)
+
+The system comes with four default access roles:
+
+- **Owner:** Has access to everything, including the **Billing** section. This is the only role that can add new users or change the subscription.
+- **Admin:** Has access to everything _except_ billing details. Can manage all settings and view all records.
+- **Editor:** Cannot access admin settings. Can only access records (claims, leads, etc.) that they have created or have been assigned to.
+- **Viewer:** Cannot edit anything in the system. Can only view records they have been associated with.
+
+### Custom Roles
+
+[Section titled “Custom Roles”](https://docs.claimmosaic.com/settings/access-rights/#custom-roles)
+
+If the default roles don’t fit your needs, you can create custom roles with specific permissions.
+
+1. Click the **Add** button.
+2. Give the new role a **Name** and **Description**.
+3. On the **Manage Access Rights** page, you will see a comprehensive list of all possible permissions in the system, grouped by feature area (e.g., Dashboard, Claim, Lead).
+4. Use the checkboxes to grant the exact permissions you want this role to have.
+
+This flexibility allows you to create roles tailored to specific job functions, such as a “Field Adjuster” who can only view assigned claims and create activities, or a “Finance Manager” who can only access the accounting sections.
+
+## Claim Automation Settings
+[Skip to content](https://docs.claimmosaic.com/settings/automation/#_top)
+
+# Automation
+
+The **Automation** section helps you save time by automating repetitive tasks and setting intelligent defaults for new claims.
+
+### Create System Automations
+
+[Section titled “Create System Automations”](https://docs.claimmosaic.com/settings/automation/#create-system-automations)
+
+Automations allow you to automatically trigger a set of actions when a claim is created based on its “Reason” (e.g., New Claim, Supplemental, Re-Open).
+
+To create an automation:
+
+1. Click **Add Automation**.
+2. Select a **Reason** from the dropdown. This is the trigger for the automation.
+3. **Add Staff:** Automatically assign specific staff members to any claim created with this reason.
+4. **Add Tasks:** Automatically create and assign one or more tasks. You can set the task title, priority, assignee, and the number of days after claim creation it is due.
+
+This ensures that for every new claim, the right team members are assigned and the initial set of tasks is created without any manual intervention.
+
+### Defaults
+
+[Section titled “Defaults”](https://docs.claimmosaic.com/settings/automation/#defaults)
+
+Set system-wide defaults to ensure consistency and speed up data entry.
+
+- **Company Fee:** Set a default company fee percentage or flat rate that will be automatically applied to all new claims. This can be overridden on a per-claim basis if needed.
+- **Email:** This email address will be automatically CC’d on any email sent from a claim record via a user’s native email client. This is useful for ensuring a central inbox has a copy of all communications.
+- **Default Claim Folders:** Define a standard folder structure that will be automatically created in the **Files** tab for every new claim. This helps keep your documents organized from the very beginning.
+
+## Billing Management
+[Skip to content](https://docs.claimmosaic.com/settings/billing/#_top)
+
+# Billing & Payment
+
+The **Billing** section is the central hub for managing your subscription and is only accessible to users with the **Owner** role. Here, you can upgrade your plan, adjust the number of user licenses, and monitor your eSignature usage.
+
+### Change Your Plan
+
+[Section titled “Change Your Plan”](https://docs.claimmosaic.com/settings/billing/#change-your-plan)
+
+This area displays the available subscription tiers: **Simple**, **Professional**, and **Enterprise**.
+
+- **Upgrade Plan:** You can upgrade to a higher tier at any time to access more advanced features.
+- **Adjust User Licenses:** Increase or decrease the number of user licenses on your plan to match your team’s size. The cost per user is displayed for each tier.
+- **Downgrade Plan:** To downgrade your plan, you must contact support. This is to ensure you are fully aware of any features or data that may become unavailable on a lower tier.
+
+### Signatures
+
+[Section titled “Signatures”](https://docs.claimmosaic.com/settings/billing/#signatures)
+
+Monitor your eSignature usage in this section.
+
+- **eSignatures:** Shows the number of included eSignatures remaining in your current billing cycle and the date they will reset.
+- **Paid eSignatures:** If you exceed your included amount, you can purchase additional eSignatures to continue using the feature without interruption.
+
+## Document Templates
+[Skip to content](https://docs.claimmosaic.com/settings/document-templates/#_top)
+
+# Document Templates
+
+The **Document Templates** section allows you to create and manage reusable templates for documents you frequently generate, such as a Letter of Representation (LOR). By using tokens, you can automatically populate documents with specific claim data, saving time and reducing errors.
+
+### Creating a Template
+
+[Section titled “Creating a Template”](https://docs.claimmosaic.com/settings/document-templates/#creating-a-template)
+
+1. **Create a `.docx` file:** First, create your template in a word processor like Microsoft Word and save it as a `.docx` file.
+2. **Insert Tokens:** In your document, use tokens as placeholders for claim data. A full list of available tokens can be viewed by clicking the **View Available Fields** button.
+
+   - Example: `Insured(s): [PolicyHolder.FullName]`
+3. **Upload the Template:**
+   - Click **Create Template**.
+   - Give the template a name.
+   - Upload your `.docx` file.
+
+### Managing and Previewing Templates
+
+[Section titled “Managing and Previewing Templates”](https://docs.claimmosaic.com/settings/document-templates/#managing-and-previewing-templates)
+
+Once uploaded, your templates are listed in the dropdown menu. You can:
+
+- **Preview:** Select a template and then search for a specific claim to see a live preview of how the document will look with that claim’s data merged in.
+- **Edit:** Click the pencil icon to rename the template.
+- **Delete:** Click the trash can icon to remove the template.
+
+This feature streamlines the creation of consistent, professional, and accurate documentation for every claim.
+
+## External Portal Overview
+[Skip to content](https://docs.claimmosaic.com/settings/external-portals/#_top)
+
+# External Portal
+
+The **External Portal** is a secure, view-only portal that allows you to share claim progress and key details with external stakeholders, such as the policyholder or an attorney, without giving them full access to the system.
+
+### Manage Portal View
+
+[Section titled “Manage Portal View”](https://docs.claimmosaic.com/settings/external-portals/#manage-portal-view)
+
+This admin page gives you complete control over what information is visible in the portal. Using a simple drag-and-drop interface, you can:
+
+- **Select Visible Fields:** Choose exactly which fields from the claim record are displayed to external users.
+- **Reorder Fields:** Arrange the fields in a logical order to create a clean and easy-to-understand view for your clients.
+
+### Allow Document Uploads
+
+[Section titled “Allow Document Uploads”](https://docs.claimmosaic.com/settings/external-portals/#allow-document-uploads)
+
+You can empower your clients and other stakeholders to contribute directly to the claim file by enabling document uploads.
+
+- **Allow Documents Uploads:** When this checkbox is enabled, users accessing the portal will see an option to upload files. Any files they upload will be automatically added to the **Files** tab of the corresponding claim record.
+
+This feature is an excellent way to securely and efficiently receive necessary documents from your clients.
+
+## Manage Data Fields
+[Skip to content](https://docs.claimmosaic.com/settings/fields/#_top)
+
+# Manage Fields
+
+The **Fields** section provides a powerful drag-and-drop interface to customize the data fields for various record types, including **Claims**, **Leads**, **Contacts**, and **Companies**. This allows you to tailor the application to your specific workflow and data requirements.
+
+### How it Works
+
+[Section titled “How it Works”](https://docs.claimmosaic.com/settings/fields/#how-it-works)
+
+1. **Select a Record Type:** Use the **Filter** dropdowns at the top to choose which record and section you want to customize (e.g., `Claim` \> `Overview` \> `Loss Details`).
+2. **Add New Fields:** Drag a field type from the left-hand menu (e.g., Text, Dropdown, Date) and drop it into the list on the right.
+3. **Configure the Field:** A modal will appear where you can set the **Label** and other options, such as:
+
+   - **Required:** Make the field mandatory.
+   - **Hidden:** Hide the field from view.
+   - **Available in External Portal:** (For claim fields) Choose whether this field is visible to clients in the External Portal.
+4. **Reorder Fields:** Drag and drop existing fields to change the order in which they appear on the record page.
+
+### Field Types
+
+[Section titled “Field Types”](https://docs.claimmosaic.com/settings/fields/#field-types)
+
+You can add the following types of custom fields:
+
+- **Text:** A single line of text.
+- **Multi-line text:** A larger text area for detailed descriptions.
+- **Checkbox:** A simple true/false checkbox.
+- **Dropdown:** A dropdown menu with customizable options.
+- **Date:** A date picker.
+- **Number:** A field for numerical input.
+
+### Managing Dropdown Options
+
+[Section titled “Managing Dropdown Options”](https://docs.claimmosaic.com/settings/fields/#managing-dropdown-options)
+
+For dropdown fields (like `Claim Status` or custom dropdowns), you can click on the field to open the **Select Option Manager**. Here, you can add, edit, or delete the available options in the list.
+
+## General Settings
+[Skip to content](https://docs.claimmosaic.com/settings/general/#_top)
+
+# General Settings
+
+The **General** settings page is where you manage your company’s identity within the application. This information is used across the platform, particularly in reports and generated documents.
+
+### Logo
+
+[Section titled “Logo”](https://docs.claimmosaic.com/settings/general/#logo)
+
+Upload your company logo to be displayed on all reports and invoices. This helps maintain a professional and consistent brand identity.
+
+- **Replace:** Upload a new logo file.
+- **Clear:** Remove the current logo.
+
+### Company Information
+
+[Section titled “Company Information”](https://docs.claimmosaic.com/settings/general/#company-information)
+
+Update your company’s essential contact details. These fields are required and are used to populate invoices, document templates, and other communications.
+
+- **Company Name**
+- **Email**
+- **Phone Number**
+- **Address**
+
+### Company Files
+
+[Section titled “Company Files”](https://docs.claimmosaic.com/settings/general/#company-files)
+
+This section allows you to upload company-wide documents that the AI Assistant can reference. This is a powerful tool for training the AI on your specific business processes and knowledge base.
+
+You can upload documents such as:
+
+- Standard Operating Procedures (SOPs)
+- Company policies
+- Service and pricing lists
+
+By checking **Include in Assistant**, you make the content of these files available to the AI chatbot, allowing it to provide more accurate and context-aware answers to user queries.
+
+## Invoice Configuration
+[Skip to content](https://docs.claimmosaic.com/settings/invoicing/#_top)
+
+# Invoice Configuration
+
+The **Invoicing** section allows you to configure the default settings for all invoices generated from the **Accounting** tab within a claim. This helps ensure that your invoices are consistent, professional, and contain all the necessary information.
+
+### Defaults
+
+[Section titled “Defaults”](https://docs.claimmosaic.com/settings/invoicing/#defaults)
+
+You can customize the following default fields:
+
+- **Company Fee Label:** Change the default label for the main line item on the invoice. By default, it is “Company Fee,” but you can change it to something else, like “Service Fee” or “Public Adjusting Fee.”
+- **Due Date Terms:** Set the default payment terms related to the due date (e.g., “Due upon receipt”).
+- **Payment Terms:** Add a default block of text that will appear in the “Notes / Terms” section of every invoice. This is the perfect place to include payment instructions, late fee policies, or other standard contractual language.
+
+These defaults can be overridden on a per-invoice basis, but setting them here saves time and ensures a consistent format for all client billing.
+
+## User Management
+[Skip to content](https://docs.claimmosaic.com/settings/users/#_top)
+
+# User Management
+
+The **User Management** page is where administrators can view, manage, and configure all user accounts within the system.
+
+### User List
+
+[Section titled “User List”](https://docs.claimmosaic.com/settings/users/#user-list)
+
+The main view displays a list of all users in your organization. From here, you can see at a glance:
+
+- User’s name and email.
+- The number of assigned Claims, Leads, and Tasks.
+- Their current **Access Role**.
+
+### Managing Users
+
+[Section titled “Managing Users”](https://docs.claimmosaic.com/settings/users/#managing-users)
+
+- **Search Users:** Quickly find a specific user by typing their name or email in the search bar.
+- **Change Access Role:** Click the dropdown next to a user’s name to change their access role (e.g., from Editor to Admin).
+- **Disable User:** Instead of deleting users, which could orphan historical data, you can **disable** them. A disabled user can no longer log in, and their license becomes available for a new user. This preserves their activity history for auditing and reporting purposes.
+- **Edit User Details:** Click on a user’s name to navigate to their contact record, where you can update their name, phone number, and other personal details.
+
+## Task Management Guide
+[Skip to content](https://docs.claimmosaic.com/tasks/#_top)
+
+# Tasks
+
+## Task Management Overview
+[Skip to content](https://docs.claimmosaic.com/tasks/managing-tasks/#_top)
+
+# Managing Tasks
+
+The main Tasks page displays all tasks in a comprehensive list view. This allows for efficient management of your workload and your team’s responsibilities.
+
+### Task List Details
+
+[Section titled “Task List Details”](https://docs.claimmosaic.com/tasks/managing-tasks/#task-list-details)
+
+The task list provides key information in sortable columns:
+
+- **Status:** The current state of the task (e.g., Open).
+- **Title:** The name of the task.
+- **Claim/Lead:** The specific claim or lead number the task is associated with.
+- **Policyholder:** The client related to the task.
+- **Assigned To:** The user responsible for the task.
+- **Priority:** The task’s priority level (e.g., Normal, High).
+- **Date Due:** The deadline for the task. Overdue tasks are highlighted in red.
+- **Assigned By:** The user who created the task.
+
+### Interacting with Tasks
+
+[Section titled “Interacting with Tasks”](https://docs.claimmosaic.com/tasks/managing-tasks/#interacting-with-tasks)
+
+You can manage tasks directly from this list:
+
+- **View/Update Task:** Click on any task row to open a side panel with the full task details. From here, you can update the title, description, priority, due date, and re-assign the task.
+- **Mark as Complete:** In the task detail panel, click **Mark as Complete** to resolve the task.
+- **Navigate to Claim/Lead:** Click the claim or lead number to go directly to that record.
+
+### Filtering Tasks
+
+[Section titled “Filtering Tasks”](https://docs.claimmosaic.com/tasks/managing-tasks/#filtering-tasks)
+
+Use the **Filters** button to narrow down the task list based on specific criteria, such as assignee, status, or priority, helping you focus on what needs to be done.
+
+## Tasks Overview Dashboard
+[Skip to content](https://docs.claimmosaic.com/tasks/overview/#_top)
+
+# Tasks Overview
+
+The main **Tasks** section, accessible from the primary navigation menu, is a global dashboard that consolidates all tasks from every claim and lead across the entire system. While individual tasks can be managed within each claim or lead, this page provides a high-level, centralized view of all pending and completed work.
+
+This global view is essential for:
+
+- **Personal Productivity:** See all tasks assigned to you in one place, regardless of which claim or lead they belong to.
+- **Team Management:** Admins and owners can get a complete picture of the workload across all staff members.
+- **Prioritization:** Quickly identify overdue or high-priority tasks that require immediate attention.
+
+The list is fully searchable and filterable, allowing you to easily drill down and focus on the items that matter most.
+

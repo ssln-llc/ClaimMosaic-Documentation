@@ -1,0 +1,54 @@
+# https://docs.claimmosaic.com llms.txt
+
+- [Claim Mosaic Documentation](https://docs.claimmosaic.com/): Comprehensive guide for public adjusters using Claim Mosaic.
+- [ClaimMosaic Sitemap](https://docs.claimmosaic.com/sitemap-index.xml): Comprehensive sitemap for ClaimMosaic documentation and resources.
+- [Claims Files Management](https://docs.claimmosaic.com/claims/claim-detail/files-tab/): Central hub for managing claim-related documents and files.
+- [Insurance Policy Management](https://docs.claimmosaic.com/claims/claim-detail/insurance-tab/): Manage insurance policy details and company information effectively.
+- [Claim Detail View](https://docs.claimmosaic.com/claims/claim-detail/): Detailed overview and management of individual insurance claims.
+- [Claim Overview Details](https://docs.claimmosaic.com/claims/claim-detail/overview-tab/): Essential overview of claims with detailed information and tools.
+- [Claims Contacts Overview](https://docs.claimmosaic.com/claims/claim-detail/contacts-tab/): Centralized contacts for claims management and communication.
+- [Claim Accounting Overview](https://docs.claimmosaic.com/claims/claim-detail/accounting-tab/): Detailed overview of claim finances with invoice generation features.
+- [Claims and Management Overview](https://docs.claimmosaic.com/sitemap-0.xml): Comprehensive guide covering claims, companies, contacts, dashboards, and settings.
+- [Claim Activity Overview](https://docs.claimmosaic.com/claims/claim-detail/activity-tab/): Track every action related to claims in one tab.
+- [Claim Tasks Overview](https://docs.claimmosaic.com/claims/claim-detail/tasks-tab/): Manage claim-related tasks efficiently for organized workflow.
+- [Claims Overview](https://docs.claimmosaic.com/claims/claims-list/): Comprehensive claims management with search and filter options.
+- [Claims Management Overview](https://docs.claimmosaic.com/claims/overview/): Central hub for managing and tracking claims efficiently.
+- [Company Directory](https://docs.claimmosaic.com/companies/): Comprehensive directory of companies and services offered.
+- [Managing Companies Overview](https://docs.claimmosaic.com/companies/managing-companies/): Manage company records with detailed views and filtering options.
+- [Companies Directory Overview](https://docs.claimmosaic.com/companies/overview/): Centralized directory for managing organizations in claims process.
+- [Claim Mosaic Contacts](https://docs.claimmosaic.com/contacts/): Find contact information for Claim Mosaic support and inquiries.
+- [Contact Management System](https://docs.claimmosaic.com/contacts/managing-contacts/): Manage and categorize your network of contacts efficiently.
+- [Contacts Overview](https://docs.claimmosaic.com/contacts/overview/): Central directory for managing all customer interactions seamlessly.
+- [User Activities Feed](https://docs.claimmosaic.com/dashboard/activities/): Chronological log of user activities and updates found here.
+- [Admin Dashboard Overview](https://docs.claimmosaic.com/dashboard/admin-dashboard/): Centralized user activity monitoring and reporting dashboard.
+- [Quick Add Feature](https://docs.claimmosaic.com/dashboard/quick-add/): Easily create new records without page navigation.
+- [User Dashboard](https://docs.claimmosaic.com/dashboard/user-dashboard/): Overview of tasks, claims, and leads for users.
+- [Claim Mosaic Setup](https://docs.claimmosaic.com/getting-started/account-setup/): Essential steps for setting up your Claim Mosaic account.
+- [Account Setup FAQ](https://docs.claimmosaic.com/getting-started/faq/): Find answers to account setup and management questions.
+- [Tiers and Pricing](https://docs.claimmosaic.com/getting-started/tiers-pricing/): Explore Claim Mosaic's subscription tiers and pricing options.
+- [Example Guide](https://docs.claimmosaic.com/guides/example/): Step-by-step guide for accomplishing specific tasks effectively.
+- [Lead to Claim Process](https://docs.claimmosaic.com/leads/converting-to-claim/): Convert leads into claims easily with automated options.
+- [Lead Detail Overview](https://docs.claimmosaic.com/leads/lead-detail-page/): Comprehensive overview of a single lead and related tasks.
+- [Lead Management Tools](https://docs.claimmosaic.com/leads/managing-leads/): Manage your leads efficiently with search, filters, and actions.
+- [Leads Management Overview](https://docs.claimmosaic.com/leads/overview/): Manage potential clients and claims efficiently in one place.
+- [Calendar Task Management](https://docs.claimmosaic.com/mosaic-view/calendar/): Manage tasks and due dates with a monthly calendar view.
+- [Claim Management Board](https://docs.claimmosaic.com/mosaic-view/claim-board/): Visual interface for managing claims with drag-and-drop functionality.
+- [Lead Board](https://docs.claimmosaic.com/mosaic-view/lead-board/): Manage leads visually using a Kanban-style interface.
+- [Claims Map View](https://docs.claimmosaic.com/mosaic-view/map-view/): Interactive map view for claims management and field inspections.
+- [Task Board Overview](https://docs.claimmosaic.com/mosaic-view/task-board/): Visualize and prioritize tasks by due date effectively.
+- [Example Reference](https://docs.claimmosaic.com/reference/example/): Comprehensive outline of reference documentation and usage.
+- [ClaimMosaic Reports](https://docs.claimmosaic.com/reports/): Access various report types for ClaimMosaic insights.
+- [Report Creation Guide](https://docs.claimmosaic.com/reports/creating-reports/): Easily create and customize reports with detailed steps.
+- [Reports Overview](https://docs.claimmosaic.com/reports/overview/): Generate customized reports using stored data efficiently.
+- [User Access Management](https://docs.claimmosaic.com/settings/access-rights/): Manage user roles and permissions for system access.
+- [Claim Automation Settings](https://docs.claimmosaic.com/settings/automation/): Automate claim processes and set intelligent defaults effectively.
+- [Billing Management](https://docs.claimmosaic.com/settings/billing/): Manage subscription, user licenses, and eSignature usage effectively.
+- [Document Templates](https://docs.claimmosaic.com/settings/document-templates/): Manage and create document templates for claim documentation.
+- [External Portal Overview](https://docs.claimmosaic.com/settings/external-portals/): Manage external stakeholders' access to claim details securely.
+- [Manage Data Fields](https://docs.claimmosaic.com/settings/fields/): Customizable fields for managing claims, leads, and contacts efficiently.
+- [General Settings](https://docs.claimmosaic.com/settings/general/): Manage company identity, logo, and essential information settings.
+- [Invoice Configuration](https://docs.claimmosaic.com/settings/invoicing/): Configure default invoice settings for consistent billing practices.
+- [User Management](https://docs.claimmosaic.com/settings/users/): Manage and configure user accounts effectively within the system.
+- [Task Management Guide](https://docs.claimmosaic.com/tasks/): Comprehensive guide on managing tasks within Claim Mosaic.
+- [Task Management Overview](https://docs.claimmosaic.com/tasks/managing-tasks/): Efficiently manage and track tasks for your team.
+- [Tasks Overview Dashboard](https://docs.claimmosaic.com/tasks/overview/): Centralized tasks dashboard for claims and leads management.
