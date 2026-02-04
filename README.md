@@ -1,6 +1,6 @@
 # ClaimMosaic Documentation
 
-Official documentation for **ClaimMosaic** — the modern claims management software built for public adjusters, independent adjusters, and insurance claims professionals.
+Official documentation for [**ClaimMosaic**](https://claimmosaic.com) — the modern claims management software built for public adjusters, independent adjusters, and insurance claims professionals.
 
 ## About ClaimMosaic
 
