@@ -29,4 +29,12 @@ The **Claims** tab shows a filtered list of all claims in your system where this
 
 #### 4. Files and Notes Tabs
 
-These tabs function as dedicated repositories for documents and notes that are specific to the company record itself, rather than an individual claim. This is useful for storing master service agreements, company-wide contact lists, or general notes about your relationship with the organization.
+These tabs function as dedicated repositories for documents and notes that are specific to the company record itself, rather than an individual claim.
+
+The Files tab uses the shared file manager experience, including:
+- **Grid or List View** options
+- **Sorting** controls
+- **Folder organization** tools
+- **Download All** ZIP export for company-level files
+
+This is useful for storing master service agreements, company-wide contact lists, or general notes about your relationship with the organization.
