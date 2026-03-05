@@ -11,7 +11,20 @@ The **Files** tab is the central repository for all documents, images, and other
 
 - **Upload Files:** You can upload one or more files by dragging and dropping them onto the page or by using the **Upload a file(s)** button.
 - **Create Folders:** Keep your documents organized by creating folders. Click the **New Folder** button to add a new folder to the claim.
+- **Choose a View:** Switch between **Grid** and **List** view in the Files toolbar.
+- **Sort Files:** Use the sort selector in the Files toolbar to change file ordering.
 - **Preview and Download:** Click on a file to see a preview (for supported file types like PDFs and images) or to view its details. From the preview or details pane, you can download the file to your local machine.
+- **Move Files Between Folders:** Open a file's details and use the **Folder** field to move it to another folder or back to **Main Files**.
+- **Download All Files:** Use **Download All** to export all files in the claim as a ZIP file.
+
+### Photo Report (Claims)
+
+Use the camera icon in the claim Files toolbar to generate a photo report PDF.
+
+1. Click the **Photo Report** icon.
+2. Select the photos to include.
+3. Choose a layout: **1**, **2**, or **4** photos per page.
+4. Click **Generate Report**, then download the PDF.
 
 ### Document Generation
 

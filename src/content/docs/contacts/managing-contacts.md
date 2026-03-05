@@ -40,5 +40,11 @@ This tab is a repository for documents that are specific to the contact themselv
 -   Personnel records for staff members
 -   Signed service agreements
 
+The Files tab uses the shared file manager experience, including:
+- **Grid or List View** options
+- **Sorting** controls
+- **Folder organization** tools
+- **Download All** ZIP export
+
 #### Notes Tab
 The **Notes** tab is for adding general notes about the contact that are not tied to a specific claim. This is useful for recording relationship details, communication preferences, or any other relevant information you want to keep on file for that person. 

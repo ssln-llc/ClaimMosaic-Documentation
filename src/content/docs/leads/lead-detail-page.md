@@ -29,4 +29,10 @@ Manage all to-do items for the lead in the Tasks tab. You can add new tasks, ass
 
 ### Files Tab
 
-The Files tab is the document repository for the lead. You can upload any relevant files, such as photos, initial correspondence, or unsigned documents. You can also create folders to keep the files organized.
+The Files tab is the document repository for the lead. You can upload any relevant files, such as photos, initial correspondence, or unsigned documents.
+
+The Files tab uses the shared file manager experience, including:
+- **Grid or List View** options
+- **Sorting** controls
+- **Folder organization** tools
+- **Download All** ZIP export
