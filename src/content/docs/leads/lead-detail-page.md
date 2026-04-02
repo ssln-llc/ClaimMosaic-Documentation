@@ -36,3 +36,5 @@ The Files tab uses the shared file manager experience, including:
 - **Sorting** controls
 - **Folder organization** tools
 - **Download All** ZIP export
+
+If a lead is created from **Weather Analysis**, the generated weather verification PDF is added to the lead's files automatically.
