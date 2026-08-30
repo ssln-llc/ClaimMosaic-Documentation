@@ -7,10 +7,6 @@ sidebar:
 
 The **Activities** feed, located at the bottom of the User Dashboard, provides a chronological log of recent actions taken on records you have access to. It helps you stay informed about updates, communications, and task completions without needing to check each record individually.
 
-:::note
-While the demo video shows an empty feed, in a live environment this section will populate with activities as they occur.
-:::
-
 ## Viewing and Filtering Activities
 
 The feed is designed to be easy to scan and filter, so you can quickly find the information you need.

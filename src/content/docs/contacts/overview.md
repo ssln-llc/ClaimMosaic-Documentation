@@ -17,6 +17,6 @@ Every person, regardless of their role, is stored here. This includes:
 -   **Engineers**
 -   Any other individual involved in a claim or lead
 
-This unified approach prevents duplicate entries and ensures that you have a single, authoritative record for each person. A contact can be associated with multiple claims, leads, or companies, and all of these relationships are tracked within their individual contact record.
+This unified approach gives your team one place to manage people and their relationships. A contact can be associated with multiple claims, leads, or companies, and those relationships are tracked from the contact record. Search the directory before adding a contact to avoid creating a duplicate record.
 
-From this section, you can add new contacts, search and filter your entire directory, and access detailed records for each individual. 
+From this section, you can add new contacts, search and filter your entire directory, and access detailed records for each individual.

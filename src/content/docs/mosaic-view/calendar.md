@@ -19,5 +19,5 @@ The Calendar view provides a traditional monthly calendar interface to help you 
 - **Add a New Task:** Click the **`Add Task`** button at the top-right to create a new task directly from the calendar view.
 
 :::note[Personalized View]
-The Calendar view is personalized. Standard users will see only the tasks assigned to them. Users with Admin or Owner permissions will see all tasks across the system, providing a complete overview of company-wide deadlines.
+The Calendar shows incomplete tasks assigned to the signed-in user. This assignment filter also applies to Admin and Owner users.
 :::

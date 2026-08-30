@@ -24,11 +24,9 @@ Use the status filters to isolate claims that are in the "Inspection" status. Th
 
 ### Viewing Claim Details
 
-- **Click on a map pin** to open a small pop-up window displaying key information about the claim, such as the claim number and policyholder name.
+- **Click on a map pin** to open a small pop-up window with the claim number, policyholder, loss address, loss type, and created date.
 - **Click the claim number or name** within the pop-up to navigate directly to the full claim details page.
 
-### Map and Satellite Views
+### Navigating the Map
 
-You can switch between two map styles using the buttons at the top of the map:
-- **Map:** A standard, road-map style view.
-- **Satellite:** A satellite imagery view.
+Use the map's zoom controls or pan the road map to inspect a specific area. Combine navigation with the status filters to reduce the number of visible pins.

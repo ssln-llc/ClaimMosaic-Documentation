@@ -15,6 +15,7 @@ export default defineConfig({
       logo: {
         src: './src/assets/logo-bird.svg',
       },
+      favicon: '/favicon-32x32.png',
       components: {
         Footer: './src/components/Footer.astro',
       },
@@ -33,7 +34,6 @@ export default defineConfig({
         { icon: 'github', label: 'GitHub', href: 'https://github.com/ssln-llc/ClaimMosaic-Documentation' },
       ],
       head: [
-        { tag: 'link', attrs: { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32x32.png' } },
         { tag: 'link', attrs: { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png' } },
         { tag: 'link', attrs: { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' } },
         { tag: 'link', attrs: { rel: 'mask-icon', href: '/safari-pinned-tab.svg', color: '#5bbad5' } },
@@ -66,15 +66,15 @@ export default defineConfig({
       sidebar: [
           {
               label: 'Getting Started',
-              autogenerate: { directory: 'getting-started' },
+              items: [{ autogenerate: { directory: 'getting-started' } }],
           },
           {
               label: 'Dashboard',
-              autogenerate: { directory: 'dashboard' },
+              items: [{ autogenerate: { directory: 'dashboard' } }],
           },
           {
               label: 'Mosaic View',
-              autogenerate: { directory: 'mosaic-view' },
+              items: [{ autogenerate: { directory: 'mosaic-view' } }],
           },
           {
               label: 'Claims',
@@ -83,36 +83,39 @@ export default defineConfig({
                 { label: 'Claims List', link: '/claims/claims-list' },
                 {
                     label: 'Claim Detail',
-                    autogenerate: { directory: 'claims/claim-detail' }
+                    items: [{ autogenerate: { directory: 'claims/claim-detail' } }]
                 }
               ]
           },
           {
               label: 'Leads',
-              autogenerate: { directory: 'leads' },
+              items: [{ autogenerate: { directory: 'leads' } }],
           },
           {
               label: 'Contacts',
-              autogenerate: { directory: 'contacts' },
+              items: [{ autogenerate: { directory: 'contacts' } }],
           },
           {
               label: 'Companies',
-              autogenerate: { directory: 'companies' },
+              items: [{ autogenerate: { directory: 'companies' } }],
           },
           {
               label: 'Tasks',
-              autogenerate: { directory: 'tasks' },
+              items: [{ autogenerate: { directory: 'tasks' } }],
           },
           {
               label: 'Reports',
-              autogenerate: { directory: 'reports' },
+              items: [{ autogenerate: { directory: 'reports' } }],
           },
           {
               label: 'Settings',
-              autogenerate: { directory: 'settings' },
+              items: [{ autogenerate: { directory: 'settings' } }],
           }
       ],
   }), sitemap()],
 
-  adapter: cloudflare(),
+  adapter: cloudflare({
+    imageService: 'passthrough',
+    prerenderEnvironment: 'node',
+  }),
 });

@@ -22,5 +22,5 @@ The main view displays a list of all users in your organization. From here, you 
 - **Edit User Details:** Click on a user's name to navigate to their contact record, where you can update their name, phone number, and other personal details.
 
 :::tip[Adding New Users]
-To add a new user, you must first ensure you have an available license in the [**Billing**](./../billing) section. Once a license is available, you can create a new contact record for the user and then enable them as a system user.
-::: 
+To add a user, first confirm that an internal-user license is available in [**Billing**](../billing/). On the Users page, click **Create**, enter the user's first name, last name, email, and role, then submit the invitation. Enterprise accounts can choose between an internal user in the organization and an external user in another organization. External-user creation is limited to Owners.
+:::

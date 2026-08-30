@@ -5,35 +5,32 @@ sidebar:
   order: 2
 ---
 
-Creating a report is a straightforward process that gives you full control over the data you want to present.
+Create a reusable report by choosing its record type, settings, filters, and columns in the Report Viewer.
 
 ### Step 1: Create a Report
 
 1.  Navigate to the **Reports** section.
-2.  Click the **+** button at the top right.
-3.  Select the type of report you want to create:
-    -   Create Claim Report
-    -   Create Lead Report
-    -   Create Contact Report
-    -   Create Company Report
+2. Click **Create** at the top right.
+3. Select **Create Claim Report**, **Create Lead Report**, **Create Contact Report**, or **Create Company Report**.
 
 ### Step 2: Configure the Report
 
-You will be taken to the **Report Builder** page, where you can configure the report's content and layout.
+The Report Viewer opens the **Report Settings** dialog first.
 
-1.  **Title:** Give your report a descriptive title.
-2.  **Filter:** This is the most important step. Select one of your **Saved Filters** from the dropdown menu. The data in your report will be based entirely on the criteria of this filter.
-3.  **Permissions:** (Optional) Set which users or user roles can view and run this report.
-4.  **Sort:** Choose a primary field to sort the report data by (e.g., sort claims by `Claim Number`).
-5.  **Fields:** Select the checkboxes for each data field you want to include as a column in your report. You can choose from any standard or custom field associated with the record type.
+1. Enter a required **Report Title** and an optional description.
+2. Choose who can use the report under **Permissions**.
+3. Choose a **Default Sort**, then click **Apply**.
+4. Use the filter panel on the left to narrow the records. You can configure filters directly or expand **Saved Filters** to reuse one you already created.
+5. Click **Fields**. Select the standard, custom, or related fields to include, then drag the selected fields into the required column order and click **Apply**.
 
 ### Step 3: Generate and Export
 
-Once you have configured the report, a live preview will be generated in the main window.
+The main area displays a live table of the records that match the current configuration.
 
--   **Review:** Check the preview to ensure the report contains the correct data and columns.
--   **Export:** Click the **Export** button to download the report as a PDF file.
--   **Save:** Click **Save** to save this report configuration. It will now appear in your main Reports list, ready to be run again at any time.
+- **Review:** Check the visible records, filters, and column order.
+- **Revise settings:** Click **Settings** to change the title, description, permissions, or default sort.
+- **Save:** Click **Save** to add the report to the Reports list or keep changes to an existing report.
+- **Export:** Click **Export to Excel** to download the current report data.
 
 :::tip[Excluding Confidential Information]
 When selecting your report fields, you can choose to include or exclude confidential activities and tasks. This allows you to create versions of a report suitable for different audiences, such as an internal version with all notes and an external version for an attorney that omits sensitive information.

@@ -5,17 +5,22 @@ sidebar:
   order: 1
 ---
 
-The **Reports** section is a powerful tool that allows you to generate detailed, list-style reports based on the data you've stored in the Claims, Leads, Contacts, and Companies sections. This feature is built upon the filtering system, enabling you to create highly specific and customized data exports.
+The **Reports** section creates reusable, list-style reports from data in Claims, Leads, Contacts, and Companies. Each report combines filters, selected columns, sharing permissions, and a default sort order.
 
 ### How It Works
 
-The reporting tool is directly tied to the **Saved Filters** you create in other sections of the application. To generate a report, you first create and save a filter that isolates the exact data set you need.
+Open an existing report from the Reports list or use the **Create** menu to start a Claim, Lead, Contact, or Company report. The report viewer provides:
 
-For example, you could create a saved filter in the Claims section for "All Hurricane Claims Closed This Year." This saved filter will then appear in the Reports section as a template for a new report.
+- A filter panel for narrowing the records in the report
+- A **Saved Filters** option when you want to reuse an existing filter
+- A **Fields** dialog for selecting and ordering report columns
+- **Settings** for the report title, description, permissions, and default sort
+- A live table preview of the matching records
 
 ### Key Features
 
--   **Custom Report Generation:** Build reports for Claims, Leads, Contacts, or Companies.
--   **Filter-Based Logic:** Use your saved filters as the foundation for any report.
--   **Customizable Fields:** Select exactly which data fields (columns) you want to include in your final report.
--   **Exportable Data:** Export your generated reports to a clean, professional PDF format.
+- **Custom Report Generation:** Build reports for Claims, Leads, Contacts, or Companies.
+- **Flexible Filters:** Configure filters directly in the report or start from a saved filter.
+- **Customizable Fields:** Select and reorder the data columns included in the report.
+- **Reusable Configuration:** Save the report so it remains available from the Reports list.
+- **Excel Export:** Download the current report data with **Export to Excel**.

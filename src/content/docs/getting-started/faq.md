@@ -3,13 +3,11 @@ title: FAQ
 description: Frequently asked questions.
 ---
 
-# Frequently Asked Questions
-
 ## Getting Started
 
 ### How do I set up my profile after creating my account?
 
-Click on your **profile icon** in the top-right corner of the Claim Mosaic interface to configure your personal information, notification preferences, timezone, and working hours. This ensures you receive the right notifications and your team can reach you when needed.
+Click your **profile icon** in the top-right corner of Claim Mosaic. From your profile, you can update your photo, name, phone number, and address; control the daily digest, tagged, and desktop notifications; and change your password.
 
 ### I'm the account owner - how do I add my team members?
 
@@ -29,7 +27,7 @@ License limits vary by plan tier. Check your current license count and available
 
 ### How do I configure notifications for my team?
 
-Each user can set their own notification preferences by clicking their profile icon. You can also configure system-wide notification settings in [Settings → General](/settings/general/) if you're an admin or owner.
+Each user can open their profile to control the daily digest, notifications when someone tags them, and desktop notifications.
 
 ### What should I set up first after creating my account?
 
@@ -69,7 +67,7 @@ Your plan includes a certain number of eSignatures per billing cycle. If you exc
 
 ### Can I downgrade my plan?
 
-To downgrade your plan, you must contact support. This ensures you're aware of any features or data that may become unavailable on a lower tier.
+No. Claim Mosaic does not offer plan downgrades, and lower tiers cannot be selected from Billing.
 
 ## Getting Help
 
@@ -79,4 +77,4 @@ Browse the documentation sections for detailed guides on claims management, lead
 
 ### How do I contact support if I need help?
 
-You can contact Claim Mosaic support through the help system within the application or visit the support section on the Claim Mosaic website for additional resources and contact information. 
+You can contact Claim Mosaic support through the help system within the application or visit the support section on the Claim Mosaic website for additional resources and contact information.

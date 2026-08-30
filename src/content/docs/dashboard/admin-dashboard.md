@@ -5,10 +5,10 @@ sidebar:
   order: 2
 ---
 
-The Admin Dashboard provides a powerful, centralized view for monitoring all user activities within the system. It serves as a comprehensive audit log, allowing administrators and owners to track actions performed on any record.
+The Admin Dashboard provides a centralized view for monitoring user activity within the system. It serves as an audit log for actions performed on records.
 
 :::caution[Feature Availability]
-The Admin Dashboard is exclusively available on the **Professional** and **Enterprise** tiers for users with **Admin** or **Owner** roles.
+The Admin Dashboard is available on the **Professional** and **Enterprise** tiers. Access also requires an administrative permission that allows the user to view the dashboard or user activity.
 :::
 
 ## User Activities Log

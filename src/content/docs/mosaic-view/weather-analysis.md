@@ -19,7 +19,7 @@ As you type, Claim Mosaic can suggest matching **Claims**, **Leads**, and **Plac
 
 After the search completes, the left side shows the matching weather events for the property. You can sort the list by:
 
-- **Recommended**
+- **Best match**
 - **Date**
 - **Distance**
 - **Severity**
@@ -33,7 +33,7 @@ Select any event to open the detailed report on the right. The detailed report i
 - Evidence matrix findings
 - Data quality or limitation notes when the source data is incomplete
 
-The default recommended event is highlighted automatically after analysis completes.
+The default best-match event is highlighted automatically after analysis completes.
 
 ## Mosaic AI Recommendation
 

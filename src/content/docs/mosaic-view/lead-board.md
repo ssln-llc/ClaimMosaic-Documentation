@@ -22,11 +22,7 @@ Easily update a lead's status by dragging and dropping its card between columns.
 ### Viewing and Adding Leads
 
 - **View Details:** Click on any lead card to open its full details page.
-- **Add a Lead:** You can create a new lead by clicking the **`+ Add another Lead`** button.
-
-:::note
-On the Lead Board, new leads can only be added to the "New Lead" column, ensuring a consistent starting point for all incoming leads.
-:::
+- **Add a Lead:** Click **`+ Add another Lead`** in the status column where the lead should begin.
 
 ## Customizing Your View
 
@@ -34,3 +30,4 @@ You can toggle the visibility of empty status columns to customize your view.
 
 - **Click the eyeball icon (`👁️`)** in the top-right corner to show all possible lead statuses, even if no leads are currently in them.
 - This allows you to move a lead to a less common status if needed. Click the icon again to hide the empty columns.
+- Drag a column by its header to change the order of the status columns.

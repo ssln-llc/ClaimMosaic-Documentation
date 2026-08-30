@@ -3,8 +3,6 @@ title: Tiers & Pricing
 description: Information on tiers and pricing.
 ---
 
-# Tiers & Pricing
-
 Claim Mosaic offers three subscription tiers designed to meet the needs of public adjusting firms of all sizes. All plans include a 14-day free trial with no credit card required.
 
 ## Simple Plan
@@ -63,7 +61,7 @@ Claim Mosaic offers three subscription tiers designed to meet the needs of publi
 - Upgrade your tier at any time
 - Changes take effect immediately
 - Prorated billing adjustments
-- Downgrading requires assistance from support
+- Plan downgrades are not offered
 
 ### Adding Users
 - Add users to your account at any time

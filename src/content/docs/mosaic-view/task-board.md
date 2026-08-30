@@ -11,11 +11,13 @@ The Task Board provides a unique view of your tasks, organizing them vertically 
 
 Unlike the Claim and Lead boards, the Task Board is not organized by status. Instead, it groups tasks into time-based columns, such as:
 
-- **30+ days overdue**
-- **7-14 days overdue**
-- **0-7 days overdue**
-- **Due in next 7 days**
+- **Due in 30+ days**
 - **Due in next 7-30 days**
+- **Due in next 7 days**
+- **0-7 days overdue**
+- **7-14 days overdue**
+- **14-30 days overdue**
+- **30+ days overdue**
 
 :::caution[View-Only Organization]
 Because tasks are automatically grouped by their due date, you cannot drag and drop them between columns on this board. The board is a reflection of the due dates set on the tasks themselves.
@@ -32,3 +34,4 @@ By default, the Task Board only displays columns that contain tasks.
 
 - **Click the eyeball icon (`👁️`)** in the top-right corner to display all possible time-based columns, even those that are empty. This gives you a complete overview of all time brackets.
 - Click the icon again to return to the default view.
+- Drag a column by its header to change the order of the time brackets. Task cards themselves remain grouped by due date and cannot be moved between columns.
