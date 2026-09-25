@@ -1,15 +1,17 @@
 ---
 title: "Tasks Overview"
-description: "Discover the main Tasks page, a global dashboard that aggregates all your to-do items from every claim and lead into a single, manageable view."
+description: "See goals and tasks from your claims and leads in one workspace."
 sidebar:
   order: 1
 ---
 
-The main **Tasks** section, accessible from the primary navigation menu, is a global dashboard that consolidates all tasks from every claim and lead across the entire system. While individual tasks can be managed within each claim or lead, this page provides a high-level, centralized view of all pending and completed work.
+Open **Goals & Tasks** from the main menu to see work across your claims and leads. You can also open the **Tasks** tab on a claim or lead to focus on work for that record.
 
-This global view is essential for:
--   **Personal Productivity:** See all tasks assigned to you in one place, regardless of which claim or lead they belong to.
--   **Team Management:** Admins and owners can get a complete picture of the workload across all staff members.
--   **Prioritization:** Quickly identify overdue or high-priority tasks that require immediate attention.
+Use this workspace to:
 
-The list is fully searchable and filterable, allowing you to easily drill down and focus on the items that matter most.
+- **Keep your work together:** Switch between **All**, **Goals**, and **Tasks**.
+- **Track progress:** Group related tasks under a goal and see how much is complete.
+- **Prioritize:** Review task status, due dates, and priority in the task details.
+- **Work with your team:** Keep people, files, and discussion with each task.
+
+Search goals and tasks in the left panel, or turn on **Show complete** to include finished work. See [Managing Tasks](/tasks/managing-tasks/) for the steps.

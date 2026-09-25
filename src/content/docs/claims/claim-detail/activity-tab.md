@@ -19,10 +19,12 @@ You can add several types of activities using the input box at the top of the fe
 - **Email:** Log communications sent or received via email.
 - **Phone Call:** Document conversations with clients, adjusters, or other parties.
 
+You can paste formatted text into a note. Supported formatting, including headings, lists, bold or italic text, links, quotes, and simple tables, stays with the note when saved and reopened. Type **@** and select a teammate from the list to mention them.
+
 For any activity, you can also:
 - **Attach a file:** Link a document or image directly to the note.
-- **Log Time:** Enter the hours and minutes spent on the activity. You can mark this time as **Billable** to have it included in financial calculations on the Accounting tab.
-- **Mark as Confidential:** Check the "eye" icon to mark a note as confidential. Confidential notes can be excluded from generated reports for privacy.
+- **Log Time:** For an email or phone call, enter the hours and minutes spent when time tracking is available. Use **Billable**, when shown, to include that time in billing calculations.
+- **Mark as Confidential:** Turn on **Confidential** to exclude the activity from customer correspondence.
 
 ### Filtering the Feed
 

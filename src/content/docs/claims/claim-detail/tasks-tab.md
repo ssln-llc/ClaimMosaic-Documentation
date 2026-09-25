@@ -1,30 +1,18 @@
 ---
 title: "Tasks Tab"
-description: "Create, assign, and track all tasks and to-do items for a claim to ensure nothing falls through the cracks."
+description: "Plan and follow the goals and tasks connected to a claim."
 sidebar:
   order: 7
 ---
 
-The **Tasks** tab provides a dedicated space to manage all actionable items related to a claim. This helps you and your team stay organized and ensures that all necessary steps are completed on time.
+The claim's **Tasks** tab shows the **Goals & Tasks** workspace for that claim. You can create a goal or task here, or open **Goals & Tasks** from the main menu to see work across records.
 
-### The Task List
+### Find and Plan Work
 
-The main view is a table that lists all tasks for the current claim. The table includes the following columns:
+Choose **All**, **Goals**, or **Tasks** in the left panel. Search by name, select a goal to see its progress, or select a task to open its details. Use **Create goal** or **Add task** to start new work for this claim. Open a task and select **Add subtask** to break it into smaller steps.
 
-- **Status:** The current state of the task (e.g., Open, Completed).
-- **Title:** A brief name for the task.
-- **Policyholder:** The client associated with the task.
-- **Assigned To:** The staff member responsible for completing the task.
-- **Priority:** The urgency of the task (e.g., Normal, High).
-- **Date Due:** The deadline for the task.
-- **Assigned By:** The user who created the task.
+### Manage a Task
 
-### Managing Tasks
+In the task details, update its title, status, due date, priority, and notification preference. Use **Brief** for the work to be done and **Internal** for team notes. **People** holds the task's assignee and other participants; **Files** holds attachments; **Discussion** keeps replies and @mentions with the task.
 
-- **Add a Task:** Click the **Add** button to create a new task. A modal will appear where you can fill in the details.
-- **Update a Task:** Click on any task in the list to open the **Update Task** modal. Here you can:
-    - Change the **Title** and **Description**.
-    - Adjust the **Priority** and **Due Date**.
-    - **Re-assign** the task to a different staff member.
-    - Add supplementary **Notes**.
-    - Use the **Notify Now** option to send an immediate notification to the assignee.
+For the full workflow, see [Managing Tasks](/tasks/managing-tasks/).

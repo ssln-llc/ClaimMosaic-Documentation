@@ -40,6 +40,12 @@ Here, you can manage all payments received from the carrier.
 - **Add Payment:** Manually add a payment or convert it from a settlement.
 - **Details:** You can record the check/reference number, date, and amount. You can also upload images of the front and back of the check for complete documentation.
 
+### Check Processing
+
+Open **Check Processing** from the Accounting menu to follow an insurance check from receipt through endorsements, mortgage handling, escrow disbursements, and deposit.
+
+Select **Record check**, then choose **Pull from Payments** for a check already recorded there or **Add Manually** for a new physical check. Select a check to see its payees, current status, next action, custody history, and related tasks in one place.
+
 ### Expenses
 
 Track all costs associated with managing the claim.

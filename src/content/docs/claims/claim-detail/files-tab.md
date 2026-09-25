@@ -16,26 +16,28 @@ The **Files** tab contains the documents, images, and other files associated wit
 - **Preview Files:** Click a file to open its preview. Images and supported media open in the gallery.
 - **View Details:** Use **View Details** on a file or folder to see its name, description, creator, dates, and size. File details also show the current folder. From the details panel, you can rename the item, edit its description, download it, or delete it.
 - **Move Files Between Folders:** Open a file's details and use the **Folder** field to move it to another folder or back to **Main Files**. From Main Files, you can also drag a file onto a folder.
-- **Download All Files:** Use **Download All Files** in the toolbar to export the claim's files as a ZIP file.
+- **Download All Files:** Click the download arrow in the toolbar to export the claim's files as a ZIP file. Hover over the icon to see **Download All Files**.
 
 ### Select, download, and share files
 
 1. Click **Select Items**.
 2. Select individual files or folders. You can also click **Select all** for the items currently shown. Your selection remains active while you open folders and add more files.
-3. Click **Download** to download the selected files as a ZIP. Selecting a folder includes the files inside it.
-4. To share the selection, click **Share Link**. This action is available to users who can update the claim.
-5. In **Create Share Link**, optionally add an expiration date, password, or note.
+3. Click the **Download** arrow in the toolbar to download the selected files as a ZIP. Selecting a folder includes the files inside it.
+4. To share the selection, click the share icon in the toolbar. Hover over it to see **Share Link**. This action is available to users who can update the claim.
+5. In **Create Share Link**, turn on **Expiration** or **Password protection** if needed, then enter the date or password. You can also add a note.
 6. Click **Create Link**, then click **Copy** beside the generated link.
 
 ### Photo Report (Claims)
 
 Open **Generate** in the claim header and select **Photo Report**.
 
-1. Select the photos to include.
+1. Select the photos to include. Use **Select All** to include every photo or **Deselect All** to clear your selection.
 2. Choose **1**, **2**, or **4** photos per page.
 3. Click **Generate Report**.
 4. Keep the window open to watch progress, or close it while Claim Mosaic continues processing. When the email option is available, you can request a download link that expires after 24 hours.
 5. When the report is ready, review the preview and click **Download**.
+
+If you closed the report window, open the **bell** in the top bar, select **Photo report ready**, and click **Download report**. See [Notifications](/getting-started/notifications/) for more.
 
 ### Document Generation
 

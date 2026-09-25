@@ -7,7 +7,7 @@ description: Frequently asked questions.
 
 ### How do I set up my profile after creating my account?
 
-Click your **profile icon** in the top-right corner of Claim Mosaic. From your profile, you can update your photo, name, phone number, and address; control the daily digest, tagged, and desktop notifications; and change your password.
+Click your **profile icon** in the top-right corner of Claim Mosaic and select **Profile**. There you can update your photo, name, phone number, and address; control the daily digest and tagged notifications; change your password; and enable **Desktop Notifications** for mentions. See [Notifications](/getting-started/notifications/) for the browser setup steps.
 
 ### I'm the account owner - how do I add my team members?
 
@@ -27,7 +27,7 @@ License limits vary by plan tier. Check your current license count and available
 
 ### How do I configure notifications for my team?
 
-Each user can open their profile to control the daily digest, notifications when someone tags them, and desktop notifications.
+Each user can open **Profile** to control the daily digest and email notifications for tags. Desktop mention alerts are enabled separately in each browser. See [Notifications](/getting-started/notifications/) for the steps and the notification center controls.
 
 ### What should I set up first after creating my account?
 

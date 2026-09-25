@@ -25,7 +25,7 @@ This tab shows which of your internal users are assigned to or involved with the
 
 ### Tasks Tab
 
-Manage all to-do items for the lead in the Tasks tab. You can add new tasks, assign them to staff members, set due dates and priorities, and track their status.
+Use the **Tasks** tab to see goals and tasks for this lead. Add a goal or task, track progress, and open a task to set its status, due date, priority, people, and discussion. See [Managing Tasks](/tasks/managing-tasks/) for more.
 
 ### Files Tab
 

@@ -7,14 +7,16 @@ Once you've created your Claim Mosaic account, follow these essential steps to g
 
 ## 1. Configure Your Personal Profile
 
-Click on your **profile icon** in the top-right corner of the Claim Mosaic interface to:
+Click your **profile icon** in the top-right corner of Claim Mosaic and select **Profile**. Here you can:
 
 - Update your profile photo, name, phone number, and address
 - Choose whether to receive the daily digest and notifications when someone tags you
-- Enable or disable desktop notifications
+- Enable or disable [desktop notifications](/getting-started/notifications/) for mentions in this browser
 - Change your password
 
 These settings keep your contact information current and let you control the notifications Claim Mosaic sends you.
+
+To turn on desktop alerts, select **Desktop Notifications → Enable notifications** on your profile and allow the browser prompt. Repeat this in each browser you use.
 
 ## 2. Add Team Members (Admin/Owner Users)
 
