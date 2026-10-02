@@ -31,8 +31,6 @@ If you change a saved view's filters, open its menu and select **Save changes to
 
 Saved views keep the assignee, creator, priority, and due-date filters. Status selections and sorting are remembered separately and apply across views. The claim and lead **Tasks** tabs use the same filtering and sorting controls, but stay focused on that record and do not include saved-view tabs.
 
-![A saved Priority follow-ups view showing high-priority tasks, the sort dropdown, and Filters.](../../../assets/release-2026-10-01/saved-task-view.jpg)
-
 ### Goals and Subtasks
 
 Use the **+** beside the search box to create a goal or task. A goal groups related tasks and shows how many are complete. Select a goal to review its progress and connected work.

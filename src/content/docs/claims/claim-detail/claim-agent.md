@@ -25,8 +25,6 @@ The starters help you begin:
 - **Draft update:** Prepare a claim update to review before sharing.
 - **Find next steps:** Identify missing information and work to move the claim forward.
 
-![Claim Agent welcome view with claim summary, coverage review, update draft, and next-step starters above the message box.](../../../../assets/release-2026-10-01/claim-agent-welcome.jpg)
-
 ### Ask About Claim Information
 
 Be specific about what you want to know. For example, ask “Summarize the latest activity and outstanding tasks” or “Compare the estimate with the invoice and identify differences.”

@@ -21,8 +21,6 @@ Task cards show their due date and priority, with overdue work highlighted. Link
 
 Each column scrolls independently, so you can review a long list of tasks in one status while keeping the other columns in place.
 
-![Task Board cards in Not started, In progress, and Blocked columns, with due dates and status menus.](../../../assets/release-2026-10-01/task-status-board.jpg)
-
 ## Managing Tasks
 
 - **View Details:** Click on any task card to see its full details and make updates.

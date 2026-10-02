@@ -34,12 +34,8 @@ Goals with a target date appear as milestones in Month view and in the selected 
 
 The task assignment filter does not filter goal milestones. Milestones follow the goal's status and the records you can access.
 
-![Calendar Month view with assignment and status controls and a selected day's goal milestone and task.](../../../assets/release-2026-10-01/calendar-milestone.jpg)
-
 ### Agenda View
 
 Agenda groups tasks into **Overdue**, **Today**, **Tomorrow**, **Later this week**, **Next week**, **Later**, and **Earlier**, as applicable. Use the same assignment and status controls to focus the list, then open a task to review or update it.
 
 Agenda shows tasks with due dates. To review goal milestones, use Month view.
-
-![Calendar Agenda showing overdue tasks and tasks due later this week with dates and status controls.](../../../assets/release-2026-10-01/calendar-agenda.jpg)
