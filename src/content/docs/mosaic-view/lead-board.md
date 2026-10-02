@@ -11,6 +11,8 @@ The Lead Board uses a Kanban-style interface, similar to the Claim Board, to hel
 
 The board is organized into columns representing different lead statuses, such as "New Lead," "Contacted," and "Converted to Claim."
 
+Each column scrolls independently, so you can review a long list of leads in one status while keeping the other columns in place.
+
 ### Updating Lead Status
 
 Easily update a lead's status by dragging and dropping its card between columns.

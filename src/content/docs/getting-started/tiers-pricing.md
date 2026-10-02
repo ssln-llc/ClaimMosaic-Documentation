@@ -36,6 +36,10 @@ Claim Mosaic offers three subscription tiers designed to meet the needs of publi
   - E-Signatures
   - Dedicated Account Manager
 
+### Claim Agent
+
+[Claim Agent](/claims/claim-detail/claim-agent/) brings MosaicAI into an individual claim to help with summaries, document review, update drafts, and next steps. Access depends on account enablement and permissions; contact support to confirm availability for your team.
+
 ## Plan Comparison
 
 | Feature | Simple | Professional | Enterprise |

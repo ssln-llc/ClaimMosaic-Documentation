@@ -27,6 +27,8 @@ This tab shows which of your internal users are assigned to or involved with the
 
 Use the **Tasks** tab to see goals and tasks for this lead. Add a goal or task, track progress, and open a task to set its status, due date, priority, people, and discussion. See [Managing Tasks](/tasks/managing-tasks/) for more.
 
+Choose **Open**, **Done**, or **All**, then use **Filters** and the sort dropdown to focus your work. Filters stay within the current lead. Saved views are available in **Goals & Tasks** from the main menu.
+
 ### Files Tab
 
 The Files tab is the document repository for the lead. You can upload any relevant files, such as photos, initial correspondence, or unsigned documents.

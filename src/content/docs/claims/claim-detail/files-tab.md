@@ -27,6 +27,10 @@ The **Files** tab contains the documents, images, and other files associated wit
 5. In **Create Share Link**, turn on **Expiration** or **Password protection** if needed, then enter the date or password. You can also add a note.
 6. Click **Create Link**, then click **Copy** beside the generated link.
 
+### Review Claim Documents with Claim Agent
+
+When [Claim Agent](/claims/claim-detail/claim-agent/) is available for your account, you can ask it to review the claim's policies, estimates, invoices, and correspondence. Describe the document or question you want to review, then check the supporting claim information before using the response.
+
 ### Photo Report (Claims)
 
 Open **Generate** in the claim header and select **Photo Report**.

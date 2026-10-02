@@ -26,6 +26,8 @@ For any activity, you can also:
 - **Log Time:** For an email or phone call, enter the hours and minutes spent when time tracking is available. Use **Billable**, when shown, to include that time in billing calculations.
 - **Mark as Confidential:** Turn on **Confidential** to exclude the activity from customer correspondence.
 
+When [Claim Agent](/claims/claim-detail/claim-agent/) is available for your account, you can ask it to draft a claim update. Review the draft and add or send it through your usual activity workflow. Asking for a draft does not automatically save an activity or send an email.
+
 ### Filtering the Feed
 
 To quickly find specific information, you can use the filter buttons at the top of the feed to show only:
