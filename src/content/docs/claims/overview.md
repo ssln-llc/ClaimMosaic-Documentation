@@ -12,3 +12,5 @@ From the main claims dashboard, you can:
 - Search and apply filters to find specific records
 - Access the detailed view for claims to manage policy details, contracts, financials, etc
 - Use this as your primary workspace for day-to-day operations, ensuring all relevant information is organized, accessible and current
+
+When available for your account, [Claim Agent](/claims/claim-detail/claim-agent/) brings MosaicAI into the claim detail view. Ask it to summarize the claim, review coverage and documents, draft updates, or help identify next steps.

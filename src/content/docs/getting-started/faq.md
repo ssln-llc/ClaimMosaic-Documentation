@@ -69,6 +69,20 @@ Your plan includes a certain number of eSignatures per billing cycle. If you exc
 
 No. Claim Mosaic does not offer plan downgrades, and lower tiers cannot be selected from Billing.
 
+## Claim Agent
+
+### Where do I find Claim Agent?
+
+Open a claim and select the **robot icon** before the Overview tab. The MosaicAI welcome view includes **Summarize claim**, **Review coverage**, **Draft update**, and **Find next steps**. Claim Agent appears when it is available for your account. See [Claim Agent](/claims/claim-detail/claim-agent/) for the workflow, or contact support to confirm access.
+
+### Will Claim Agent change my claim automatically?
+
+Review the Agent's answers and drafts before using them. Proposed task changes require your approval and the appropriate permissions. Selecting a suggested request fills the message box so you can review it before sending.
+
+### What happened to the old Assistant?
+
+The previous standalone Chatbot/Assistant has been retired. Use Claim Agent from an individual claim when it is available for your account. Company Files and **Include in Assistant** are no longer part of General Settings.
+
 ## Getting Help
 
 ### Where can I find more detailed guides for specific features?

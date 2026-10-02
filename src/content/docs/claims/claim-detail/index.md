@@ -10,6 +10,7 @@ The **Claim Detail View** provides a comprehensive, in-depth look at a single cl
 This view is organized into a series of tabs, each dedicated to a specific aspect of the claim's lifecycle. This tabbed structure allows you to easily navigate and manage all related information in one place.
 
 The available tabs are:
+- **[Claim Agent](./claim-agent):** Ask MosaicAI to summarize the claim, review documents, draft updates, and help plan next steps when available for your account. Open it using the robot icon before Overview.
 - **[Overview](./overview-tab):** Core details about the loss, policyholder, and company fees.
 - **[Insurance](./insurance-tab):** All policy-related information and coverages.
 - **[Contacts](./contacts-tab):** Management of all associated contacts.

@@ -16,6 +16,10 @@ The system comes with four default access roles:
 - **Editor:** Cannot access admin settings. Can only access records (claims, leads, etc.) that they have created or have been assigned to.
 - **Viewer:** Cannot edit anything in the system. Can only view records they have been associated with.
 
+### Claim Agent Access
+
+[Claim Agent](/claims/claim-detail/claim-agent/) is shown only when it is available for the signed-in account. Its responses and proposed changes remain subject to the user's permissions. Review and approve a proposed change before it is applied. Contact support if you need help confirming access for your team.
+
 ### Custom Roles
 
 :::note[Feature Availability]
@@ -29,4 +33,4 @@ If the default roles don't fit your needs, you can create custom roles with spec
 3.  On the **Manage Access Rights** page, you will see a comprehensive list of all possible permissions in the system, grouped by feature area (e.g., Dashboard, Claim, Lead).
 4.  Use the checkboxes to grant the exact permissions you want this role to have.
 
-This flexibility allows you to create roles tailored to specific job functions, such as a "Field Adjuster" who can only view assigned claims and create activities, or a "Finance Manager" who can only access the accounting sections. 
+This flexibility allows you to create roles tailored to specific job functions, such as a "Field Adjuster" who can only view assigned claims and create activities, or a "Finance Manager" who can only access the accounting sections.

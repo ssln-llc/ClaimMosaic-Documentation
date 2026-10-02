@@ -1,23 +1,45 @@
 ---
 title: "Calendar"
-description: "Track your scheduled tasks and appointments using a familiar calendar interface."
+description: "Track task due dates and goal milestones using Month and Agenda views."
 sidebar:
   order: 5
 ---
 
-The Calendar view provides a traditional monthly calendar interface to help you manage your tasks and their due dates. It's an intuitive way to visualize your schedule and stay on top of your responsibilities.
+The Calendar helps you manage task due dates and goal milestones. Use **Month** for a date-based overview or **Agenda** to review tasks grouped by when they are due.
 
 ### Navigating the Calendar
 
-- Use the **`<`** and **`>`** arrow buttons at the top-right of the calendar to move between months.
-- The calendar will highlight the current day.
+- Switch between **Month** and **Agenda** using the controls above the calendar.
+- Use the **`<`** and **`>`** arrow buttons to move between months in Month view.
+- Select **Today** to return to the current date. The calendar highlights the current day.
+- Select a day to review its tasks and goal milestones.
 
 ### Managing Tasks
 
-- **View Task Details:** Click on a task entry in the calendar to open a sidebar on the right. This sidebar displays all the details of the selected task, including its priority, associated claim/lead, and description.
-- **Update and Complete Tasks:** From the details sidebar, you can add notes, make changes, or mark the task as complete.
-- **Add a New Task:** Click the **`Add Task`** button at the top-right to create a new task directly from the calendar view.
+- **View Task Details:** Click a task entry to open its details. You can review its priority, linked claim or lead, people, files, and discussion.
+- **Update and Complete Tasks:** Open the task's details to make changes, or use its status control where shown. Status changes require permission to update the task. Cancelling a task asks for confirmation.
+- **Add a New Task:** Click **Add task** to create a task. When you have selected a day, its date is filled in for the new task.
 
-:::note[Personalized View]
-The Calendar shows incomplete tasks assigned to the signed-in user. This assignment filter also applies to Admin and Owner users.
-:::
+Tasks and subtasks appear on their due dates. In a selected day's details, tasks are grouped under their goal, with tasks that have no goal shown separately.
+
+### Choose Which Work to Show
+
+Choose **Assigned to me** to focus on your tasks, or **Everyone** to include tasks you can access across the team. **Everyone** does not give you access to records outside your permissions.
+
+Use **Open**, **Done**, or **All** to control task statuses. Open includes Not started, In progress, and Blocked; Done includes Completed and Cancelled.
+
+### Goal Milestones
+
+Goals with a target date appear as milestones in Month view and in the selected day's details. To review the goal and its progress, open the claim's **Tasks** tab or **Goals & Tasks** from the main menu.
+
+The task assignment filter does not filter goal milestones. Milestones follow the goal's status and the records you can access.
+
+![Calendar Month view with assignment and status controls and a selected day's goal milestone and task.](../../../assets/release-2026-10-01/calendar-milestone.jpg)
+
+### Agenda View
+
+Agenda groups tasks into **Overdue**, **Today**, **Tomorrow**, **Later this week**, **Next week**, **Later**, and **Earlier**, as applicable. Use the same assignment and status controls to focus the list, then open a task to review or update it.
+
+Agenda shows tasks with due dates. To review goal milestones, use Month view.
+
+![Calendar Agenda showing overdue tasks and tasks due later this week with dates and status controls.](../../../assets/release-2026-10-01/calendar-agenda.jpg)

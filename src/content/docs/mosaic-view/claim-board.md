@@ -11,6 +11,8 @@ The Claim Board provides a visual, Kanban-style interface for managing your clai
 
 The board is organized into columns, with each column representing a different claim status (e.g., "Originated - New Claim," "Inspection," "Estimating"). Each claim is represented by a card within its respective status column.
 
+Each column scrolls independently, so you can review a long list of claims in one status while keeping the other columns in place.
+
 ### Updating Claim Status
 
 You can instantly update a claim's status by dragging and dropping its card from one column to another.
