@@ -19,11 +19,11 @@ People submitting the public form do not need a Claim Mosaic account. Treat the 
 
 ## Configure the form
 
-Choose whether to show your company logo, address, phone number, and email. Add a **Header Message** to explain what visitors should provide. Display settings save automatically; wait for the save to finish before navigating away.
+Choose whether to show your company logo, address, phone number, and email. Add a **Header Message** to explain what visitors should provide. Display settings save automatically. The save status shows pending, saving, saved, or an error. Use **Retry** after a failed save. Leaving with pending display, field, or Goals & Tasks changes prompts you to confirm. Wait for the save to finish to preserve your changes.
 
 Move lead fields between **Included fields** and **Excluded fields**. Included fields appear on the public form; hidden fields do not. The contact fields First Name, Last Name, Email, and Phone Number cannot be excluded through the editor. Required fields must be completed before submission.
 
-Supported public controls include text, long text, dates, custom numbers, custom selection lists, custom checkboxes, and address inputs. Address information can be entered manually. Unsupported field types should not be included.
+Supported public controls include text, long text, dates, custom numbers, custom selection lists, custom checkboxes, and address inputs. Custom text is limited to 500 characters. Custom numbers support up to 10 digits before the decimal point and four after it. Address information can be entered manually. Unsupported field types should not be included.
 
 Use **Move up** and **Move down** to change the order, or drag fields. **Include** and **Exclude** buttons provide the same selection controls without dragging. Saved order is preserved after reloading. If a field save fails, the editor restores the previous selection and shows an error.
 
@@ -45,7 +45,7 @@ Test the published website, including a narrow phone layout. Your website builde
 
 Enable **Allow Document Uploads** to display the file picker and drag-and-drop area. Visitors can review selected files, remove individual files, or clear the selection before submitting.
 
-Uploads are limited to 20 files, 50 MB per file, and 200 MB total. Empty files, duplicate filenames, directory paths, and generic or missing file media types are rejected. Supported extensions include PDF, DOC/DOCX, XLS/XLSX, JPG/JPEG, PNG, GIF, TXT, ZIP, and RAR. Browser and hosting limits can impose lower limits. Disabling uploads also prevents direct upload submissions to that form.
+Uploads are limited to 20 files, 50 MB per file, and 200 MB total. Empty files, duplicate filenames, directory paths, and generic or missing file media types are rejected. Supported extensions include PDF, DOC/DOCX, XLS/XLSX, JPG/JPEG, PNG, GIF, TXT, ZIP, and RAR. The browser rejects an entire selected batch if it exceeds a size or count limit. Browser and hosting limits can impose lower limits. Disabling uploads also prevents direct upload submissions to that form.
 
 Uploaded files are associated with the new lead in its **External Portal** file folder. Acceptance of an extension is not a malware-scan guarantee; handle unsolicited files cautiously.
 
