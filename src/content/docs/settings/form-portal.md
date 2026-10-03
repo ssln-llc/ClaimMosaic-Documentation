@@ -25,9 +25,7 @@ Move lead fields between **Included fields** and **Excluded fields**. Included f
 
 Supported public controls include text, long text, dates, custom numbers, custom selection lists, custom checkboxes, and address inputs. Address information can be entered manually. Unsupported field types should not be included.
 
-:::note[Field order]
-Field inclusion is supported. A custom drag order is not yet guaranteed to persist after reloading the form; verify the published form before sharing it.
-:::
+Use **Move up** and **Move down** to change the order, or drag fields. **Include** and **Exclude** buttons provide the same selection controls without dragging. Saved order is preserved after reloading. If a field save fails, the editor restores the previous selection and shows an error.
 
 ## Assign staff and follow-up work
 
@@ -47,7 +45,7 @@ Test the published website, including a narrow phone layout. Your website builde
 
 Enable **Allow Document Uploads** to display the file picker and drag-and-drop area. Visitors can review selected files, remove individual files, or clear the selection before submitting.
 
-Uploads are limited to 20 files, 50 MB per file, and 200 MB total. Empty files are rejected. Supported extensions include PDF, DOC/DOCX, XLS/XLSX, JPG/JPEG, PNG, GIF, TXT, ZIP, and RAR. Browser and hosting limits can impose lower limits. Disabling uploads also prevents direct upload submissions to that form.
+Uploads are limited to 20 files, 50 MB per file, and 200 MB total. Empty files, duplicate filenames, directory paths, and generic or missing file media types are rejected. Supported extensions include PDF, DOC/DOCX, XLS/XLSX, JPG/JPEG, PNG, GIF, TXT, ZIP, and RAR. Browser and hosting limits can impose lower limits. Disabling uploads also prevents direct upload submissions to that form.
 
 Uploaded files are associated with the new lead in its **External Portal** file folder. Acceptance of an extension is not a malware-scan guarantee; handle unsolicited files cautiously.
 
@@ -62,7 +60,7 @@ The form does not promise an email receipt to the visitor. Staff follow-up depen
 ## Known limits
 
 - This is lead intake, not a claim update or claim-creation form.
-- An interrupted connection after submission can leave the outcome uncertain. Check the lead list before manually repeating intake to avoid duplicates.
+- Retrying the same open form after an interrupted response returns the completed result without creating another lead. Reloading the page or choosing **Submit New** starts a new submission.
 - There is no public draft-resume workflow. Reloading can discard entered information.
 - Public intake is rate limited. If a limit is reached, wait before trying again.
-- Final release verification of authenticated configuration, relational transactions, attachment storage, and downstream notifications is still pending. Do not use this review guide as production release approval.
+- Final release verification of authenticated configuration and real downstream notification delivery is still pending. Do not use this review guide as production release approval.
