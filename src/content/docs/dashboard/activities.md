@@ -7,6 +7,10 @@ sidebar:
 
 The **Activities** feed, located at the bottom of the User Dashboard, provides a chronological log of recent actions taken on records you have access to. It helps you stay informed about updates, communications, and task completions without needing to check each record individually.
 
+## Widget placement
+
+Use **Edit layout** to move the Activities widget or add it back through **Add widget**. In Thumbnails mode, its card summarizes the latest available activity; click the card to open the full feed.
+
 ## Viewing and Filtering Activities
 
 The feed is designed to be easy to scan and filter, so you can quickly find the information you need.

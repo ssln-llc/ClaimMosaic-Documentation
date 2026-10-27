@@ -7,6 +7,12 @@ sidebar:
 
 The Lead Board uses a Kanban-style interface, similar to the Claim Board, to help you visually manage your leads. It allows you to track the progress of leads as they move from initial contact to conversion.
 
+## Open the board
+
+Select **Leads** from the sidebar, then choose **Board** next to **Filters**. Search and applied filters carry over from List to Board and back. The columns show matching records, so a filtered board may contain fewer cards than your full pipeline.
+
+Existing bookmarks for the old board open this same Board view. Mosaic View no longer appears in the application sidebar.
+
 ## Using the Lead Board
 
 The board is organized into columns representing different lead statuses, such as "New Lead," "Contacted," and "Converted to Claim."

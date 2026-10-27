@@ -1,39 +1,20 @@
 ---
 title: "Task Board"
-description: "View and manage your tasks organized by status in a board layout."
+description: "Find the replacement for the retired Task Board and continue managing work in Goals & Tasks."
 sidebar:
   order: 3
 ---
 
-The Task Board provides a visual view of your tasks, organizing them by status. This helps you see work that is ready to start, underway, blocked, or finished.
+The standalone Task Board has been retired. Open **Goals & Tasks** from the application sidebar to manage work. Existing Task Board bookmarks take you there automatically.
 
-## Understanding the Task Board Layout
+## Continue managing tasks
 
-The board groups tasks into five status columns:
+Use [Goals & Tasks](/tasks/overview/) to find tasks, review linked goals and records, and open task details. Task statuses remain **Not started**, **In progress**, **Blocked**, **Completed**, and **Cancelled**. Update a task's status from its current controls when you have permission; cancellation asks for confirmation.
 
-- **Not started**
-- **In progress**
-- **Blocked**
-- **Completed**
-- **Cancelled**
+See [Managing Tasks](/tasks/managing-tasks/) for task details and collaboration.
 
-Task cards show their due date and priority, with overdue work highlighted. Linked claim, lead, and goal information helps you see the context for each task. A task's status determines its column; changing its due date does not move it to another column.
+## Review due dates on the dashboard
 
-Each column scrolls independently, so you can review a long list of tasks in one status while keeping the other columns in place.
+Add the [Calendar widget](/mosaic-view/calendar/) through **Dashboard → Overview → Edit layout → Add widget**. Month view shows due dates and goal milestones; Agenda groups dated tasks by when they are due. The dashboard's My tasks widget also helps you review your open work.
 
-## Managing Tasks
-
-- **View Details:** Click on any task card to see its full details and make updates.
-- **Update Status:** On desktop, drag a task card to another status column. You can also use the card's status menu, including on smaller screens or when using a keyboard.
-- **Complete a Task:** Choose **Completed** from the status menu or move the card to the Completed column.
-- **Cancel a Task:** Choose **Cancelled** and confirm the cancellation when prompted.
-
-Status changes are available when you have permission to update the task. See [Managing Tasks](/tasks/managing-tasks/) for task details, goals, and collaboration.
-
-## Customizing Your View
-
-By default, the Task Board displays all five status columns, including empty ones.
-
-- **Click the eyeball icon (`👁️`)** in the top-right corner to hide empty status columns.
-- Click the icon again to show all columns.
-- Task status columns remain in their fixed order.
+The [Claim Board](/mosaic-view/claim-board/) and [Lead Board](/mosaic-view/lead-board/) remain available through **Board** on their respective list pages.

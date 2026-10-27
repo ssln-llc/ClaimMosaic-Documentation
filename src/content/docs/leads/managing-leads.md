@@ -7,6 +7,12 @@ sidebar:
 
 The **Leads List View** is the main dashboard for the Leads section. It presents all your leads in a table format, allowing you to quickly see their status and key details.
 
+## Switch between list and board
+
+Open **Leads** from the sidebar. Use **List** or **Board** next to **Filters** to change how you review the records. Your search and applied filters carry over between the two views. Switching back to List restores the table view without clearing those criteria.
+
+Board groups the matching records by status. Open a card to review a record, or move it to another column to update its status when you have permission. See the [Lead Board guide](/mosaic-view/lead-board/) for the board controls.
+
 ## Searching and Filtering
 
 Similar to the Claims list, the Leads list provides powerful tools to help you locate specific records quickly.

@@ -14,3 +14,5 @@ From the main claims dashboard, you can:
 - Use this as your primary workspace for day-to-day operations, ensuring all relevant information is organized, accessible and current
 
 When available for your account, [Claim Agent](/claims/claim-detail/claim-agent/) brings MosaicAI into the claim detail view. Ask it to summarize the claim, review coverage and documents, draft updates, or help identify next steps.
+
+Choose **List** or **Board** next to **Filters** on the Claims page. Search and applied filters carry over between views.
