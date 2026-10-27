@@ -7,6 +7,12 @@ sidebar:
 
 The Calendar helps you manage task due dates and goal milestones. Use **Month** for a date-based overview or **Agenda** to review tasks grouped by when they are due.
 
+## Open the calendar
+
+From **Dashboard → Overview**, select **Edit layout → Add widget → Calendar**, then **Save layout**. In thumbnail mode, click the Calendar thumbnail to use the full widget in a modal.
+
+Select **Expand** in the widget to open the full-page calendar. Select **Dashboard** there to return. Existing Calendar bookmarks continue to work.
+
 ### Navigating the Calendar
 
 - Switch between **Month** and **Agenda** using the controls above the calendar.
@@ -26,7 +32,7 @@ Tasks and subtasks appear on their due dates. In a selected day's details, tasks
 
 Choose **Assigned to me** to focus on your tasks, or **Everyone** to include tasks you can access across the team. **Everyone** does not give you access to records outside your permissions.
 
-Use **Open**, **Done**, or **All** to control task statuses. Open includes Not started, In progress, and Blocked; Done includes Completed and Cancelled.
+The dashboard widget shows open tasks. In the full-page calendar, use **Open**, **Done**, or **All** to control task statuses. Open includes Not started, In progress, and Blocked; Done includes Completed and Cancelled.
 
 ### Goal Milestones
 
@@ -36,6 +42,6 @@ The task assignment filter does not filter goal milestones. Milestones follow th
 
 ### Agenda View
 
-Agenda groups tasks into **Overdue**, **Today**, **Tomorrow**, **Later this week**, **Next week**, **Later**, and **Earlier**, as applicable. Use the same assignment and status controls to focus the list, then open a task to review or update it.
+Agenda groups tasks into **Overdue**, **Today**, **Tomorrow**, **Later this week**, **Next week**, **Later**, and **Earlier**, as applicable. Use the assignment control, and the status control in the full-page calendar, to focus the list, then open a task to review or update it.
 
 Agenda shows tasks with due dates. To review goal milestones, use Month view.

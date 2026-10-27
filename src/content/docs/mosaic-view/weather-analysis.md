@@ -5,26 +5,33 @@ sidebar:
   order: 6
 ---
 
-The **Weather Analysis** view helps you check historical weather activity for a property and identify events that may support a damage discussion. It lives inside **Mosaic View** alongside the boards, map, and calendar.
+The **Weather Analysis** view helps you check historical weather activity for a property and identify events that may support a damage discussion. Add it as a **Weather Analysis** widget on the dashboard.
 
 ## Open Weather Analysis
 
-1. Go to **Mosaic View**.
-2. Select **Weather Analysis**.
-3. Enter a full property address, then click **Analyze**.
+1. Open **Dashboard → Overview → Edit layout**.
+2. Select **Add widget → Weather Analysis**, then **Save layout**.
+3. In Standard mode, use the widget directly. In Thumbnails mode, click its card to open the tool in a modal.
+4. Enter a full property address, then click **Analyze**.
 
 As you type, Claim Mosaic can suggest matching **Claims**, **Leads**, and **Places**. Selecting a suggestion starts the analysis for that address.
 
+### Modal and full-page views
+
+Closing and reopening the thumbnail modal keeps the current search and results during your dashboard session. The thumbnail shows the last search's candidate count and address when results are available. Adding the widget does not start an analysis automatically.
+
+Select **Full screen** to open the standalone tool, then **Dashboard** to return. Full screen starts a separate session and does not transfer the widget's search results. Older Weather Analysis bookmarks remain available.
+
 ## Review the Results
 
-After the search completes, the left side shows the matching weather events for the property. You can sort the list by:
+After the search completes, the event list shows the matching weather events for the property. You can sort the list by:
 
 - **Best match**
 - **Date**
 - **Distance**
 - **Severity**
 
-Select any event to open the detailed report on the right. The detailed report includes:
+Select any event to open the detailed report. On wide screens it appears beside the event list; on narrow screens, scroll below the list. The detailed report includes:
 
 - Key weather metrics such as wind gusts, hail size, precipitation, and temperature
 - Distance from the property

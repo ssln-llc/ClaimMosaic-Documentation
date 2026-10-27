@@ -16,3 +16,4 @@ This system helps you organize and nurture potential claims, ensuring no opportu
 - **Seamless Conversion:** Easily convert a qualified lead into a full claim with just a few clicks, transferring all relevant information automatically.
 
 The Leads system is designed to be intuitive, mirroring the layout and functionality of the Claims section to provide a consistent user experience.
+Choose **List** or **Board** next to **Filters** on the Leads page. Search and applied filters carry over between views.

@@ -12,7 +12,7 @@ ClaimMosaic is a comprehensive claims management platform designed to streamline
 - **Lead Tracking** — Capture and convert leads into active claims with a streamlined pipeline
 - **Task Management** — Stay on top of inspections, follow-ups, and deadlines with built-in task workflows
 - **Contact & Company Management** — Maintain organized records of policyholders, carriers, contractors, and other stakeholders
-- **Mosaic View** — Visualize your workload with calendar, kanban boards, and map views
+- **Dashboard widgets and boards** — Use Map, Calendar, and Weather Analysis on the dashboard; switch between List and Board on Claims and Leads
 - **Reporting & Analytics** — Generate reports to analyze claim volume, revenue, and team performance
 - **Team Collaboration** — Manage users, permissions, and access rights for your adjusting firm
 
@@ -26,7 +26,7 @@ This repository contains the official help documentation for ClaimMosaic users:
 | **Dashboard** | User and admin dashboards, activity feeds, and quick actions |
 | **Claims** | Full claims workflow including claim details, files, contacts, and accounting |
 | **Leads** | Lead management, pipeline tracking, and converting leads to claims |
-| **Mosaic View** | Calendar, claim board, lead board, task board, and map views |
+| **Mosaic View guides** | Preserved guide URLs for boards, dashboard tools, and Task Board migration |
 | **Contacts & Companies** | Managing policyholders, carriers, and business contacts |
 | **Tasks** | Creating, assigning, and tracking tasks across your claims |
 | **Reports** | Building and customizing reports for your business needs |

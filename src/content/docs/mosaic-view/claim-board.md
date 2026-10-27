@@ -7,6 +7,12 @@ sidebar:
 
 The Claim Board provides a visual, Kanban-style interface for managing your claims. It allows you to see the status of all claims at a glance and easily move them through your workflow.
 
+## Open the board
+
+Select **Claims** from the sidebar, then choose **Board** next to **Filters**. Search and applied filters carry over from List to Board and back. The columns show matching records, so a filtered board may contain fewer cards than your full pipeline.
+
+Existing bookmarks for the old board open this same Board view. Mosaic View no longer appears in the application sidebar.
+
 ## Navigating the Claim Board
 
 The board is organized into columns, with each column representing a different claim status (e.g., "Originated - New Claim," "Inspection," "Estimating"). Each claim is represented by a card within its respective status column.

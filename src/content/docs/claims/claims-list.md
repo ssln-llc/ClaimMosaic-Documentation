@@ -7,6 +7,12 @@ sidebar:
 
 When you navigate to the Claims section, you land on the **Claims List**. This page displays all the claims in the system in a paginated table, providing a high-level overview of key information at a glance.
 
+## Switch between list and board
+
+Open **Claims** from the sidebar. Use **List** or **Board** next to **Filters** to change how you review the records. Your search and applied filters carry over between the two views. Switching back to List restores the table view without clearing those criteria.
+
+Board groups the matching records by status. Open a card to review a record, or move it to another column to update its status when you have permission. See the [Claim Board guide](/mosaic-view/claim-board/) for the board controls.
+
 ## Searching and Filtering
 
 To efficiently manage and locate claims, you have two primary tools available on this page: a real-time search and an advanced filtering system.

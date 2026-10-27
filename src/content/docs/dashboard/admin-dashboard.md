@@ -11,6 +11,10 @@ The Admin Dashboard provides a centralized view for monitoring user activity wit
 The Admin Dashboard is available on the **Professional** and **Enterprise** tiers. Access also requires an administrative permission that allows the user to view the dashboard or user activity.
 :::
 
+## Open the log from the dashboard
+
+The **User activity** widget is available through **Overview → Edit layout → Add widget** when your account can access it. Save the layout to keep it. In Thumbnails mode, click its card to open the full log and use its filters and export controls.
+
 ## User Activities Log
 
 The primary feature of the Admin Dashboard is the **User Activities** log. This detailed table provides a chronological record of all significant actions taken by users across the platform.

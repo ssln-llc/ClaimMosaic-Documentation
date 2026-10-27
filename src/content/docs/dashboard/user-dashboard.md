@@ -1,55 +1,55 @@
 ---
 title: "User Dashboard"
-description: "An overview of your personal dashboard, which serves as your command center for daily operations, key metrics, and recent activities."
+description: "Customize dashboard widgets, use Standard or Thumbnails mode, and open Map, Calendar, and Weather Analysis."
 sidebar:
   order: 1
 ---
 
-The User Dashboard is the first page you see upon logging in. It's designed to give you a high-level overview of your most important tasks, claims, and leads at a glance. The dashboard is personalized to show data relevant to you based on your user permissions.
+The Dashboard is the first page you see after signing in. It brings together your tasks, claims, leads, recent activities, and other widgets available to your account.
 
-## Key Metric Charts
+## Overview and firm insights
 
-At the top of the dashboard, you'll find four key metric charts that summarize your current workload. Each of these charts is interactive; you can click on any of them to navigate directly to a detailed list of the corresponding items.
+**Overview** is your daily workspace. Widgets can show headline counts, your tasks, the claim pipeline, leads, quiet claims, loss anniversaries, money in motion, and recent activities. Select a record or a widget's action link to open the relevant work. Pipeline stages and other drilldowns open lists with the corresponding criteria applied.
 
-- **Assigned Tasks:** Shows the total count of tasks currently assigned to you.
-- **Overdue Tasks:** Highlights the number of your assigned tasks that have passed their due date.
-- **Claims Assigned:** Displays the total number of claims assigned to you.
-- **Leads Assigned:** Shows the total count of leads assigned to you.
+When available, **My work** and **Firm work** change the claim, lead, contact, and company scope. Tasks and the daily brief stay personal. The Map has its own record access and filters, and Calendar has its own assignment control.
 
-:::note[Permissions]
-The data displayed in your dashboard charts is specific to your user account. Standard users will see counts related only to their own assigned items. Users with Admin or Owner roles will see system-wide totals.
-:::
+**Firm insights**, when available to your account, shows firm-level measures such as payments, estimated fees, settlements, checks, trends, and workload. Your permissions determine which widgets and actions you can use.
 
-## Data Visualization Charts
+## Edit your layout
 
-Below the key metrics, two interactive radar charts provide a visual breakdown of your claims and leads by their current status.
+1. Open the dashboard tab you want to arrange, then select **Edit layout**.
+2. Use **Add widget** to include an available widget. Reorder, resize, or remove widgets using the layout controls. Offered widths depend on the widget.
+3. Choose **Standard** or **Thumbnails**.
+4. Select **Save layout** to keep your changes. **Cancel** discards the draft. **Reset to default** prepares the default arrangement for the selected tab; save it to apply it.
 
-### Claim Chart
+Each tab keeps its own widget arrangement. The display mode applies across Overview and Firm insights for your account. Existing layouts start in Standard mode. If saving fails, your draft remains available to retry.
 
-The Claim Chart visualizes the distribution of your claims across different stages of the workflow, such as:
-- Originated - New Claim
-- Estimating
-- Inspection
-- Mediation
-- Duplicate
+### Standard layout
 
-### Lead Chart
+Standard shows the full widgets in your saved arrangement. Use their controls directly, including filters, calendar navigation, and weather searches.
 
-Similarly, the Lead Chart shows the status of your leads, categorized into stages like:
-- New Lead
-- Contacted
-- Converted to Claim
+### Thumbnail layout
 
-### Interacting with Charts
+Thumbnails show key information at a glance, such as overdue work, an inactive claim, a pending check, or a recent change. Available direct action links take you to the relevant record or filtered list.
 
-You can customize the chart view and drill down into the data:
+Click anywhere else on a thumbnail to open the full widget in a modal. You can also focus the card and press Enter or Space. Direct action links navigate separately and do not open the modal. Close the modal to return to the dashboard; the widget keeps its current state during that session.
 
-- **Filter Data:** Click on any item in the chart's legend to toggle its visibility. This allows you to focus on the specific statuses that are most important to you.
-- **Drill Down:** Click on a specific colored segment within the chart itself to navigate to a pre-filtered list showing all items in that status. For example, clicking the "Estimating" segment will take you to a list of all claims currently in the estimating phase.
+Summaries depend on the widget and available data. Loading, failed, or unavailable data is shown explicitly rather than as a zero count.
 
-## Main Navigation
+## Add Map, Calendar, and Weather Analysis
 
-The main navigation sidebar on the left provides access to all modules in the application. You can collapse or expand it at any time to maximize your screen real estate.
+These optional widgets are available through **Edit layout → Add widget** on Overview. They are not added automatically to existing or default layouts. Available choices depend on your permissions.
 
-- **Click the hamburger menu icon (`☰`)** at the top of the sidebar to collapse it.
-- **Click the icon again** to expand it.
+- **[Map](/mosaic-view/map-view/):** Switch between Claims and Leads, filter locations, and open records from their pins. Filters are beside **Expand** in the widget header.
+- **[Calendar](/mosaic-view/calendar/):** Review task due dates and goal milestones in Month view, or tasks in Agenda. Choose Assigned to me or Everyone within your accessible work.
+- **[Weather Analysis](/mosaic-view/weather-analysis/):** Search historical weather at a property, compare events, and download a weather verification report. This widget uses the full dashboard width in Standard mode.
+
+Map and Calendar have **Expand** links for their full-page views. Weather Analysis has **Full screen**. Those pages provide a **Dashboard** button to return when opened from the dashboard. Weather's full-page link starts a separate tool session; the thumbnail modal keeps the current search and results.
+
+## Main navigation and older bookmarks
+
+Use **Claims → Board** or **Leads → Board** for the boards. Use **Goals & Tasks** for task management. Mosaic View no longer appears in the application sidebar.
+
+Older links remain available. Claim and Lead Board bookmarks open the corresponding Board view, and Task Board bookmarks open Goals & Tasks. Existing Map, Calendar, Weather Analysis, and Mosaic View landing-page bookmarks still open.
+
+Use the hamburger menu at the top of the sidebar to collapse or expand navigation.
